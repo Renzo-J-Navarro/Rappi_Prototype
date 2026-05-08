@@ -1,0 +1,22 @@
+paso,nodo_id,rol,nombre,tipo,distrito,via_hacia_siguiente,tiempo_min,distancia_km,costo_sol
+1,66,ORIGEN (Restaurante),Pizza Hut (Rimac),restaurante,Rimac,—,3.05,1.0288,1.81
+2,969,Parada intermedia,Intersec. Av. El Derby (Rimac),interseccion,Rimac,—,3.0,0.7117,1.58
+3,1333,Parada intermedia,Costanera 700 (Lima Cercado),restaurante,Lima Cercado,—,3.6,0.6407,2.11
+4,1360,Parada intermedia,Cliente #1360 (Lima Cercado),cliente,Lima Cercado,—,3.15,0.5891,1.25
+5,214,Parada intermedia,Intersec. Av. Larco (Lima Cercado),interseccion,Lima Cercado,—,2.62,0.5108,2.01
+6,559,Parada intermedia,Cliente #559 (Rimac),cliente,Rimac,—,2.86,0.3937,1.48
+7,1435,Parada intermedia,Intersec. Av. Benavides (Rimac),interseccion,Rimac,—,2.08,0.4822,1.97
+8,891,Hub Rappi,Hub Rappi Lima Cercado,hub_rappi,Lima Cercado,—,3.52,0.6309,1.47
+9,1148,Parada intermedia,Cliente #1148 (El Agustino),cliente,El Agustino,—,1.84,0.5143,1.86
+10,1028,Parada intermedia,Intersec. Av. Benavides (Lima Cercado),interseccion,Lima Cercado,—,3.55,0.632,1.89
+11,287,Parada intermedia,Cliente #287 (El Agustino),cliente,El Agustino,—,2.28,0.7542,1.63
+12,906,Parada intermedia,Intersec. Av. Brasil (El Agustino),interseccion,El Agustino,—,2.67,0.8749,2.29
+13,1177,Parada intermedia,Cliente #1177 (El Agustino),cliente,El Agustino,—,3.47,1.1627,1.88
+14,217,Hub Rappi,Hub Rappi Santa Anita,hub_rappi,Santa Anita,—,3.27,1.0379,1.72
+15,1356,Parada intermedia,KFC (Santa Anita),restaurante,Santa Anita,—,3.01,0.5101,1.43
+16,1025,Parada intermedia,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,—,3.02,1.2347,1.95
+17,658,Parada intermedia,Intersec. Av. Larco (Santa Anita),interseccion,Santa Anita,—,2.75,1.1129,2.7
+18,362,Parada intermedia,Intersec. Av. Colonial (Santa Anita),interseccion,Santa Anita,—,2.91,0.5405,1.96
+19,1095,Parada intermedia,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,—,2.38,0.7454,2.39
+20,1479,Parada intermedia,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,—,2.88,1.0705,1.96
+21,516,DESTINO (Cliente),Cliente #516 (La Molina),cliente,La Molina,—,—,—,—

@@ -1,0 +1,1501 @@
+nodo_id,nombre,tipo,distrito,demanda_nivel,latitud,longitud,pedidos_hora,capacidad
+0,Cliente #0 (Chorrillos),cliente,Chorrillos,media,-12.173637,-77.013525,5,1
+1,Hub Rappi Pueblo Libre,hub_rappi,Pueblo Libre,media,-12.071537,-77.058961,402,467
+2,Intersec. Av. Tomas Marsano (Santa Anita),interseccion,Santa Anita,baja,-12.041221,-76.957885,0,0
+3,Cliente #3 (Pueblo Libre),cliente,Pueblo Libre,media,-12.08229,-77.063955,1,1
+4,Intersec. Av. La Marina (Callao),interseccion,Callao,baja,-12.061851,-77.127288,0,0
+5,Cliente #5 (Lurin),cliente,Lurin,baja,-12.286549,-76.858048,5,3
+6,Cliente #6 (Los Olivos),cliente,Los Olivos,baja,-11.988742,-77.055977,5,2
+7,Intersec. Av. Santa Cruz (Puente Piedra),interseccion,Puente Piedra,baja,-11.867397,-77.074263,0,0
+8,Cliente #8 (Surco),cliente,Surco,alta,-12.161211,-77.018435,1,1
+9,Intersec. Av. Tomas Marsano (El Agustino),interseccion,El Agustino,baja,-12.054864,-76.989018,0,0
+10,Intersec. Av. Brasil (Surco),interseccion,Surco,alta,-12.163304,-77.016545,0,0
+11,Cliente #11 (Callao),cliente,Callao,baja,-12.050851,-77.124139,3,2
+12,Intersec. Av. La Encalada (Carabayllo),interseccion,Carabayllo,baja,-11.878389,-77.038397,0,0
+13,Intersec. Av. Arequipa (Lince),interseccion,Lince,media,-12.106133,-77.029842,0,0
+14,Intersec. Av. Caminos del Inca (Ate),interseccion,Ate,baja,-12.034865,-76.910931,0,0
+15,Intersec. Av. Tomas Marsano (San Borja),interseccion,San Borja,alta,-12.114374,-76.985932,0,0
+16,Bembos (Miraflores),restaurante,Miraflores,muy_alta,-12.106489,-77.036058,71,75
+17,Intersec. Av. Caminos del Inca (Surco),interseccion,Surco,alta,-12.152431,-77.010354,0,0
+18,Intersec. Av. Salaverry (Ate),interseccion,Ate,baja,-12.026573,-76.890679,0,0
+19,Cliente #19 (Santa Anita),cliente,Santa Anita,baja,-12.026402,-76.968138,3,3
+20,Intersec. Av. Arequipa (Surco),interseccion,Surco,alta,-12.148026,-77.000158,0,0
+21,Cliente #21 (Carabayllo),cliente,Carabayllo,baja,-11.865829,-77.013422,1,1
+22,Cliente #22 (Lince),cliente,Lince,media,-12.087868,-77.024375,5,3
+23,Intersec. Av. Universitaria (Santa Anita),interseccion,Santa Anita,baja,-12.03285,-76.974977,0,0
+24,Intersec. Av. La Encalada (Santa Anita),interseccion,Santa Anita,baja,-12.026099,-76.947178,0,0
+25,Intersec. Av. La Encalada (La Molina),interseccion,La Molina,media,-12.06393,-76.963758,0,0
+26,Cliente #26 (Surco),cliente,Surco,alta,-12.131761,-77.006645,4,1
+27,Intersec. Av. Caminos del Inca (Chorrillos),interseccion,Chorrillos,media,-12.155545,-77.007497,0,0
+28,Intersec. Av. 28 de Julio (Independencia),interseccion,Independencia,baja,-11.99797,-77.076132,0,0
+29,Intersec. Av. La Marina (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.170169,-76.977356,0,0
+30,Hub Rappi Surco,hub_rappi,Surco,alta,-12.140203,-76.997492,176,271
+31,Intersec. Av. Larco (Rimac),interseccion,Rimac,baja,-12.033329,-77.038485,0,0
+32,Cliente #32 (Chorrillos),cliente,Chorrillos,media,-12.149226,-77.015334,5,3
+33,Intersec. Av. 28 de Julio (Pachacamac),interseccion,Pachacamac,baja,-12.218338,-76.860351,0,0
+34,Intersec. Av. La Encalada (Lince),interseccion,Lince,media,-12.094315,-77.046807,0,0
+35,Intersec. Av. Angamos (Miraflores),interseccion,Miraflores,muy_alta,-12.115021,-77.044607,0,0
+36,Intersec. Av. Larco (San Borja),interseccion,San Borja,alta,-12.12855,-76.993692,0,0
+37,Cliente #37 (Puente Piedra),cliente,Puente Piedra,baja,-11.867823,-77.061386,3,1
+38,Cliente #38 (San Miguel),cliente,San Miguel,media,-12.088651,-77.103885,1,1
+39,Cliente #39 (El Agustino),cliente,El Agustino,baja,-12.050022,-77.01567,2,3
+40,Intersec. Av. Primavera (Miraflores),interseccion,Miraflores,muy_alta,-12.116566,-77.043281,0,0
+41,Intersec. Av. Universitaria (Lima Cercado),interseccion,Lima Cercado,media,-12.064448,-77.016074,0,0
+42,Intersec. Av. Javier Prado (San Isidro),interseccion,San Isidro,muy_alta,-12.10877,-77.046781,0,0
+43,Cliente #43 (La Molina),cliente,La Molina,media,-12.079966,-76.933495,2,2
+44,Cliente #44 (Magdalena),cliente,Magdalena,media,-12.095011,-77.06405,1,2
+45,Hub Rappi Pueblo Libre,hub_rappi,Pueblo Libre,media,-12.052805,-77.076401,359,404
+46,Cliente #46 (Puente Piedra),cliente,Puente Piedra,baja,-11.876999,-77.063116,1,1
+47,Intersec. Av. El Derby (Los Olivos),interseccion,Los Olivos,baja,-11.989775,-77.069109,0,0
+48,Intersec. Av. Arequipa (Rimac),interseccion,Rimac,baja,-12.036933,-77.037207,0,0
+49,Intersec. Av. Santa Cruz (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.188728,-76.956878,0,0
+50,Intersec. Av. Colonial (Brena),interseccion,Brena,media,-12.054498,-77.065984,0,0
+51,Hub Rappi Barranco,hub_rappi,Barranco,alta,-12.141912,-77.017005,359,406
+52,KFC (Ate),restaurante,Ate,baja,-12.013576,-76.911708,37,61
+53,Cliente #53 (Miraflores),cliente,Miraflores,muy_alta,-12.106991,-77.017217,1,2
+54,Hub Rappi Villa El Salvador,hub_rappi,Villa El Salvador,baja,-12.212353,-76.923144,229,471
+55,Cliente #55 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.230806,-76.926775,4,1
+56,Hub Rappi Rimac,hub_rappi,Rimac,baja,-12.012526,-77.032693,326,234
+57,Intersec. Av. Caminos del Inca (Miraflores),interseccion,Miraflores,muy_alta,-12.099285,-77.008405,0,0
+58,Cliente #58 (Lince),cliente,Lince,media,-12.082601,-77.040346,5,1
+59,Intersec. Av. Larco (Callao),interseccion,Callao,baja,-12.049948,-77.101727,0,0
+60,McDonald's (Villa Maria),restaurante,Villa Maria,baja,-12.158867,-76.926772,52,56
+61,Intersec. Av. Angamos (Puente Piedra),interseccion,Puente Piedra,baja,-11.852086,-77.076965,0,0
+62,Cliente #62 (San Borja),cliente,San Borja,alta,-12.126459,-77.015147,3,1
+63,Intersec. Av. Brasil (Miraflores),interseccion,Miraflores,muy_alta,-12.121902,-77.03561,0,0
+64,Intersec. Av. Aviacion (Pachacamac),interseccion,Pachacamac,baja,-12.210291,-76.850106,0,0
+65,Cliente #65 (Brena),cliente,Brena,media,-12.063266,-77.057851,1,2
+66,Pizza Hut (Rimac),restaurante,Rimac,baja,-12.019249,-77.044004,47,50
+67,Cliente #67 (Jesus Maria),cliente,Jesus Maria,media,-12.068538,-77.040287,1,1
+68,Cliente #68 (Ate),cliente,Ate,baja,-12.019805,-76.90925,1,2
+69,Cliente #69 (La Molina),cliente,La Molina,media,-12.070366,-76.940586,5,1
+70,Intersec. Av. Petit Thouars (Pachacamac),interseccion,Pachacamac,baja,-12.23862,-76.883018,0,0
+71,Intersec. Via Expresa (Miraflores),interseccion,Miraflores,muy_alta,-12.113088,-77.033474,0,0
+72,Cliente #72 (Brena),cliente,Brena,media,-12.07801,-77.038793,5,3
+73,Hub Rappi El Agustino,hub_rappi,El Agustino,baja,-12.041974,-77.019286,283,432
+74,Intersec. Av. Javier Prado (Callao),interseccion,Callao,baja,-12.052582,-77.115087,0,0
+75,Intersec. Av. Arequipa (San Isidro),interseccion,San Isidro,muy_alta,-12.098297,-77.052413,0,0
+76,Cliente #76 (Ate),cliente,Ate,baja,-12.044338,-76.89088,3,1
+77,Intersec. Av. La Marina (Los Olivos),interseccion,Los Olivos,baja,-11.970877,-77.083335,0,0
+78,Cliente #78 (Lima Cercado),cliente,Lima Cercado,media,-12.023669,-77.014754,2,2
+79,Cliente #79 (Santa Anita),cliente,Santa Anita,baja,-12.04251,-76.948498,2,3
+80,Cliente #80 (San Borja),cliente,San Borja,alta,-12.100618,-76.984336,3,2
+81,Cliente #81 (Lurin),cliente,Lurin,baja,-12.26043,-76.864591,4,1
+82,Intersec. Av. Brasil (Miraflores),interseccion,Miraflores,muy_alta,-12.128749,-77.04041,0,0
+83,Intersec. Av. Colonial (La Molina),interseccion,La Molina,media,-12.104929,-76.94817,0,0
+84,Domino's (San Isidro),restaurante,San Isidro,muy_alta,-12.085171,-77.053339,54,39
+85,Intersec. Av. La Encalada (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.14305,-76.981093,0,0
+86,Cliente #86 (Ate),cliente,Ate,baja,-12.037932,-76.905826,2,1
+87,Cliente #87 (San Isidro),cliente,San Isidro,muy_alta,-12.090695,-77.042473,2,1
+88,Intersec. Av. Aviacion (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.201179,-76.961932,0,0
+89,Hub Rappi Carabayllo,hub_rappi,Carabayllo,baja,-11.890668,-77.049244,318,282
+90,Cliente #90 (Magdalena),cliente,Magdalena,media,-12.082689,-77.088699,2,3
+91,Chili's (Los Olivos),restaurante,Los Olivos,baja,-11.985765,-77.051327,37,64
+92,Cliente #92 (El Agustino),cliente,El Agustino,baja,-12.041506,-77.024919,4,1
+93,Intersec. Av. Aviacion (El Agustino),interseccion,El Agustino,baja,-12.049859,-77.030352,0,0
+94,TGI Fridays (Miraflores),restaurante,Miraflores,muy_alta,-12.122849,-77.01515,18,66
+95,Cliente #95 (Pachacamac),cliente,Pachacamac,baja,-12.251382,-76.852948,2,1
+96,Cliente #96 (Brena),cliente,Brena,media,-12.064776,-77.057391,3,1
+97,Cliente #97 (San Isidro),cliente,San Isidro,muy_alta,-12.091045,-77.026827,4,1
+98,Intersec. Av. Salaverry (Independencia),interseccion,Independencia,baja,-11.996011,-77.039712,0,0
+99,Intersec. Av. Universitaria (Santa Anita),interseccion,Santa Anita,baja,-12.046072,-76.94344,0,0
+100,Cliente #100 (El Agustino),cliente,El Agustino,baja,-12.027292,-76.997548,2,1
+101,Intersec. Av. Santa Cruz (Magdalena),interseccion,Magdalena,media,-12.07337,-77.055235,0,0
+102,Intersec. Av. Colonial (Magdalena),interseccion,Magdalena,media,-12.069874,-77.081298,0,0
+103,Popeyes (Carabayllo),restaurante,Carabayllo,baja,-11.895018,-77.009881,26,76
+104,Cliente #104 (Magdalena),cliente,Magdalena,media,-12.092755,-77.080344,5,3
+105,Intersec. Av. Larco (San Martin Porres),interseccion,San Martin Porres,baja,-12.03771,-77.049004,0,0
+106,Cliente #106 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.188663,-76.948809,4,2
+107,Intersec. Av. Santa Cruz (Lurin),interseccion,Lurin,baja,-12.281061,-76.857987,0,0
+108,Cliente #108 (Pachacamac),cliente,Pachacamac,baja,-12.212753,-76.851005,2,3
+109,Cliente #109 (Ate),cliente,Ate,baja,-12.018806,-76.924573,1,1
+110,Cliente #110 (Barranco),cliente,Barranco,alta,-12.14831,-77.008605,2,2
+111,Burger King (Magdalena),restaurante,Magdalena,media,-12.06772,-77.061014,70,61
+112,Intersec. Av. Tomas Marsano (Independencia),interseccion,Independencia,baja,-11.997135,-77.066751,0,0
+113,Intersec. Av. Angamos (San Miguel),interseccion,San Miguel,media,-12.062171,-77.090353,0,0
+114,Cliente #114 (La Molina),cliente,La Molina,media,-12.065882,-76.941954,4,2
+115,Cliente #115 (Lima Cercado),cliente,Lima Cercado,media,-12.066238,-77.029983,5,2
+116,Cliente #116 (Lurin),cliente,Lurin,baja,-12.274038,-76.868932,2,3
+117,Cliente #117 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.192506,-76.953649,5,1
+118,Cliente #118 (Comas),cliente,Comas,baja,-11.924194,-77.047805,5,1
+119,Intersec. Av. Tomas Marsano (Magdalena),interseccion,Magdalena,media,-12.092869,-77.08389,0,0
+120,Intersec. Av. Arequipa (Carabayllo),interseccion,Carabayllo,baja,-11.879268,-77.034718,0,0
+121,Cliente #121 (Surco),cliente,Surco,alta,-12.130721,-77.016206,1,1
+122,Intersec. Av. Universitaria (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.149215,-76.983523,0,0
+123,Intersec. Av. Arequipa (Miraflores),interseccion,Miraflores,muy_alta,-12.134823,-77.012839,0,0
+124,Cliente #124 (Puente Piedra),cliente,Puente Piedra,baja,-11.887062,-77.077298,4,1
+125,Cliente #125 (Jesus Maria),cliente,Jesus Maria,media,-12.070453,-77.042446,2,2
+126,Intersec. Av. Brasil (Ate),interseccion,Ate,baja,-12.048316,-76.902089,0,0
+127,Cliente #127 (Ate),cliente,Ate,baja,-12.024693,-76.892954,2,3
+128,Intersec. Av. Petit Thouars (Lurin),interseccion,Lurin,baja,-12.299376,-76.872605,0,0
+129,Cliente #129 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.145256,-76.979142,3,1
+130,Intersec. Av. Universitaria (San Borja),interseccion,San Borja,alta,-12.107306,-77.010699,0,0
+131,Intersec. Av. Arequipa (Chorrillos),interseccion,Chorrillos,media,-12.176944,-77.013004,0,0
+132,Cliente #132 (Santa Anita),cliente,Santa Anita,baja,-12.025595,-76.978733,3,2
+133,Hub Rappi Independencia,hub_rappi,Independencia,baja,-11.977759,-77.077142,277,434
+134,Intersec. Av. Primavera (Ate),interseccion,Ate,baja,-12.021033,-76.925226,0,0
+135,Cliente #135 (Barranco),cliente,Barranco,alta,-12.144699,-77.031368,4,3
+136,Pardos Chicken (Lurin),restaurante,Lurin,baja,-12.258571,-76.859423,12,67
+137,Cliente #137 (San Borja),cliente,San Borja,alta,-12.09756,-76.994937,1,1
+138,Cliente #138 (Los Olivos),cliente,Los Olivos,baja,-12.001223,-77.062128,3,3
+139,Intersec. Av. Larco (San Martin Porres),interseccion,San Martin Porres,baja,-12.027873,-77.087134,0,0
+140,Cliente #140 (Pueblo Libre),cliente,Pueblo Libre,media,-12.061187,-77.059877,4,3
+141,Intersec. Av. Arequipa (Rimac),interseccion,Rimac,baja,-12.038187,-77.037903,0,0
+142,Hub Rappi Miraflores,hub_rappi,Miraflores,muy_alta,-12.126402,-77.04365,352,279
+143,Cliente #143 (Brena),cliente,Brena,media,-12.077309,-77.059274,2,2
+144,Cliente #144 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.195352,-76.944963,5,1
+145,Intersec. Av. Benavides (Independencia),interseccion,Independencia,baja,-11.978155,-77.068853,0,0
+146,Cliente #146 (Puente Piedra),cliente,Puente Piedra,baja,-11.8713,-77.077048,4,2
+147,Intersec. Av. Brasil (San Miguel),interseccion,San Miguel,media,-12.055148,-77.090189,0,0
+148,Intersec. Av. Tomas Marsano (Jesus Maria),interseccion,Jesus Maria,media,-12.063262,-77.037897,0,0
+149,Intersec. Av. La Encalada (Comas),interseccion,Comas,baja,-11.927489,-77.069766,0,0
+150,Intersec. Av. Universitaria (La Molina),interseccion,La Molina,media,-12.090813,-76.96502,0,0
+151,Cliente #151 (San Borja),cliente,San Borja,alta,-12.105396,-77.00307,1,3
+152,Cliente #152 (Surco),cliente,Surco,alta,-12.152128,-76.999438,5,2
+153,Cliente #153 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.162186,-76.986931,3,3
+154,Intersec. Av. Larco (Pachacamac),interseccion,Pachacamac,baja,-12.231454,-76.854911,0,0
+155,Cliente #155 (Santa Anita),cliente,Santa Anita,baja,-12.031539,-76.953545,1,2
+156,Intersec. Av. Primavera (Santa Anita),interseccion,Santa Anita,baja,-12.039662,-76.960164,0,0
+157,Cliente #157 (Carabayllo),cliente,Carabayllo,baja,-11.879036,-77.033155,2,2
+158,Intersec. Av. Santa Cruz (Miraflores),interseccion,Miraflores,muy_alta,-12.119251,-77.023919,0,0
+159,Intersec. Av. Benavides (Brena),interseccion,Brena,media,-12.077486,-77.038282,0,0
+160,Cliente #160 (Barranco),cliente,Barranco,alta,-12.162528,-77.023155,1,2
+161,Cliente #161 (San Borja),cliente,San Borja,alta,-12.089011,-77.017793,1,1
+162,La Lucha (Pachacamac),restaurante,Pachacamac,baja,-12.213677,-76.886241,65,91
+163,Cliente #163 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.175942,-76.959179,4,2
+164,Cliente #164 (La Molina),cliente,La Molina,media,-12.08565,-76.955881,5,1
+165,Cliente #165 (Lurin),cliente,Lurin,baja,-12.294985,-76.863854,5,2
+166,Cliente #166 (Puente Piedra),cliente,Puente Piedra,baja,-11.863423,-77.089953,3,3
+167,Cliente #167 (Surco),cliente,Surco,alta,-12.131283,-76.998359,5,1
+168,Hub Rappi El Agustino,hub_rappi,El Agustino,baja,-12.033704,-77.024585,382,421
+169,Hub Rappi Independencia,hub_rappi,Independencia,baja,-12.011872,-77.062992,378,398
+170,Intersec. Av. Primavera (Surco),interseccion,Surco,alta,-12.139473,-77.008578,0,0
+171,Cliente #171 (San Miguel),cliente,San Miguel,media,-12.090395,-77.093436,1,1
+172,Intersec. Av. Salaverry (Jesus Maria),interseccion,Jesus Maria,media,-12.06111,-77.060651,0,0
+173,Cliente #173 (Puente Piedra),cliente,Puente Piedra,baja,-11.886652,-77.078613,4,1
+174,Cliente #174 (Ate),cliente,Ate,baja,-12.038432,-76.89636,1,2
+175,Cliente #175 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.220684,-76.933223,1,1
+176,El Corral (Lince),restaurante,Lince,media,-12.09139,-77.041931,42,38
+177,Cliente #177 (Comas),cliente,Comas,baja,-11.930409,-77.043405,1,1
+178,Cliente #178 (Magdalena),cliente,Magdalena,media,-12.10095,-77.061569,4,3
+179,Intersec. Av. Brasil (Santa Anita),interseccion,Santa Anita,baja,-12.035992,-76.977868,0,0
+180,Cliente #180 (San Miguel),cliente,San Miguel,media,-12.066541,-77.081487,3,3
+181,Intersec. Av. Petit Thouars (Santa Anita),interseccion,Santa Anita,baja,-12.0296,-76.981114,0,0
+182,Intersec. Av. Benavides (Independencia),interseccion,Independencia,baja,-11.981726,-77.055768,0,0
+183,Don Belisario (Santa Anita),restaurante,Santa Anita,baja,-12.048919,-76.979624,67,82
+184,Cliente #184 (Lurin),cliente,Lurin,baja,-12.264628,-76.885118,1,3
+185,Cliente #185 (Jesus Maria),cliente,Jesus Maria,media,-12.083128,-77.056416,4,1
+186,Cliente #186 (La Molina),cliente,La Molina,media,-12.104286,-76.93827,3,3
+187,Intersec. Via Expresa (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.180605,-76.997769,0,0
+188,Intersec. Av. Aviacion (Miraflores),interseccion,Miraflores,muy_alta,-12.105069,-77.042902,0,0
+189,Norkys (Santa Anita),restaurante,Santa Anita,baja,-12.040581,-76.976454,57,36
+190,Intersec. Av. Larco (Carabayllo),interseccion,Carabayllo,baja,-11.888787,-77.023956,0,0
+191,Cliente #191 (Pachacamac),cliente,Pachacamac,baja,-12.231189,-76.878109,4,2
+192,Cliente #192 (Lima Cercado),cliente,Lima Cercado,media,-12.065869,-77.039473,5,3
+193,Cliente #193 (Carabayllo),cliente,Carabayllo,baja,-11.892794,-77.037067,2,3
+194,Cliente #194 (Miraflores),cliente,Miraflores,muy_alta,-12.121686,-77.042056,5,2
+195,Intersec. Av. La Encalada (El Agustino),interseccion,El Agustino,baja,-12.035141,-77.021982,0,0
+196,Intersec. Av. La Marina (Lurin),interseccion,Lurin,baja,-12.280062,-76.869915,0,0
+197,Rockys (San Isidro),restaurante,San Isidro,muy_alta,-12.076319,-77.057547,24,68
+198,Intersec. Av. La Marina (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.172774,-76.983285,0,0
+199,Intersec. Av. Aviacion (San Martin Porres),interseccion,San Martin Porres,baja,-12.024218,-77.057405,0,0
+200,Cliente #200 (Magdalena),cliente,Magdalena,media,-12.069918,-77.051306,5,3
+201,Intersec. Av. La Marina (Los Olivos),interseccion,Los Olivos,baja,-12.006048,-77.067077,0,0
+202,Hub Rappi Pachacamac,hub_rappi,Pachacamac,baja,-12.214166,-76.8714,239,283
+203,Cliente #203 (Rimac),cliente,Rimac,baja,-12.007669,-77.044788,1,2
+204,Intersec. Av. Colonial (El Agustino),interseccion,El Agustino,baja,-12.04709,-77.025663,0,0
+205,Cliente #205 (Independencia),cliente,Independencia,baja,-12.008498,-77.064257,3,1
+206,Intersec. Av. Universitaria (Chorrillos),interseccion,Chorrillos,media,-12.163511,-77.020318,0,0
+207,Cliente #207 (Carabayllo),cliente,Carabayllo,baja,-11.877516,-77.009229,3,2
+208,Intersec. Av. El Derby (Jesus Maria),interseccion,Jesus Maria,media,-12.070945,-77.064459,0,0
+209,Mediterraneo (Lima Cercado),restaurante,Lima Cercado,media,-12.04962,-77.046183,17,88
+210,Cliente #210 (Brena),cliente,Brena,media,-12.081143,-77.045999,3,3
+211,Intersec. Av. Universitaria (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.210185,-76.932114,0,0
+212,Intersec. Via Expresa (Independencia),interseccion,Independencia,baja,-11.98518,-77.058396,0,0
+213,Intersec. Av. Aviacion (Puente Piedra),interseccion,Puente Piedra,baja,-11.880552,-77.077471,0,0
+214,Intersec. Av. Larco (Lima Cercado),interseccion,Lima Cercado,media,-12.029888,-77.02606,0,0
+215,Cliente #215 (Brena),cliente,Brena,media,-12.064778,-77.058581,4,3
+216,Intersec. Av. Universitaria (Lince),interseccion,Lince,media,-12.082751,-77.048569,0,0
+217,Hub Rappi Santa Anita,hub_rappi,Santa Anita,baja,-12.047897,-76.981132,165,252
+218,Cliente #218 (Surco),cliente,Surco,alta,-12.152072,-77.001121,3,2
+219,Intersec. Av. Petit Thouars (Pueblo Libre),interseccion,Pueblo Libre,media,-12.066016,-77.052961,0,0
+220,Intersec. Av. Salaverry (San Martin Porres),interseccion,San Martin Porres,baja,-12.04043,-77.089496,0,0
+221,Cliente #221 (Barranco),cliente,Barranco,alta,-12.148928,-77.038104,2,2
+222,Intersec. Av. Brasil (San Borja),interseccion,San Borja,alta,-12.101129,-77.010551,0,0
+223,Hub Rappi Puente Piedra,hub_rappi,Puente Piedra,baja,-11.848461,-77.094265,294,324
+224,Intersec. Av. Aviacion (Chorrillos),interseccion,Chorrillos,media,-12.177763,-77.025753,0,0
+225,Hub Rappi Lince,hub_rappi,Lince,media,-12.103279,-77.039334,430,389
+226,Cliente #226 (Carabayllo),cliente,Carabayllo,baja,-11.886821,-77.011061,2,2
+227,Cliente #227 (El Agustino),cliente,El Agustino,baja,-12.030228,-77.030234,3,2
+228,Intersec. Av. 28 de Julio (Santa Anita),interseccion,Santa Anita,baja,-12.066008,-76.956136,0,0
+229,Cliente #229 (El Agustino),cliente,El Agustino,baja,-12.060556,-77.021751,2,3
+230,Intersec. Av. Santa Cruz (La Molina),interseccion,La Molina,media,-12.074685,-76.956643,0,0
+231,Intersec. Av. Brasil (Pachacamac),interseccion,Pachacamac,baja,-12.235504,-76.87963,0,0
+232,Intersec. Av. La Marina (Brena),interseccion,Brena,media,-12.042519,-77.055952,0,0
+233,Cliente #233 (Jesus Maria),cliente,Jesus Maria,media,-12.079651,-77.031388,4,3
+234,Intersec. Av. Tomas Marsano (San Borja),interseccion,San Borja,alta,-12.120701,-76.984364,0,0
+235,Cliente #235 (San Isidro),cliente,San Isidro,muy_alta,-12.098302,-77.018093,5,1
+236,Hub Rappi El Agustino,hub_rappi,El Agustino,baja,-12.053665,-76.99059,119,383
+237,Intersec. Av. Santa Cruz (San Isidro),interseccion,San Isidro,muy_alta,-12.08772,-77.019672,0,0
+238,Intersec. Av. Javier Prado (San Martin Porres),interseccion,San Martin Porres,baja,-12.007,-77.080344,0,0
+239,Cliente #239 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.197955,-76.952615,3,2
+240,Cliente #240 (La Molina),cliente,La Molina,media,-12.093238,-76.942628,2,1
+241,Intersec. Av. Salaverry (Brena),interseccion,Brena,media,-12.048038,-77.041621,0,0
+242,Intersec. Av. Salaverry (Pueblo Libre),interseccion,Pueblo Libre,media,-12.05973,-77.073047,0,0
+243,Intersec. Av. Universitaria (Callao),interseccion,Callao,baja,-12.035895,-77.13153,0,0
+244,Cliente #244 (Pachacamac),cliente,Pachacamac,baja,-12.239791,-76.86276,3,2
+245,Intersec. Av. Salaverry (San Isidro),interseccion,San Isidro,muy_alta,-12.076443,-77.049348,0,0
+246,Intersec. Av. Aviacion (Callao),interseccion,Callao,baja,-12.034049,-77.100411,0,0
+247,Cliente #247 (Magdalena),cliente,Magdalena,media,-12.077172,-77.059086,3,3
+248,Cliente #248 (Barranco),cliente,Barranco,alta,-12.159076,-77.016753,3,1
+249,Intersec. Av. Petit Thouars (Villa Maria),interseccion,Villa Maria,baja,-12.178546,-76.946308,0,0
+250,Intersec. Av. Brasil (Jesus Maria),interseccion,Jesus Maria,media,-12.07521,-77.054289,0,0
+251,Intersec. Av. Santa Cruz (San Borja),interseccion,San Borja,alta,-12.098989,-76.988048,0,0
+252,Intersec. Av. Santa Cruz (El Agustino),interseccion,El Agustino,baja,-12.031828,-77.021105,0,0
+253,Cliente #253 (San Miguel),cliente,San Miguel,media,-12.093551,-77.08312,3,3
+254,Hub Rappi San Miguel,hub_rappi,San Miguel,media,-12.094232,-77.076424,332,304
+255,Cliente #255 (Surco),cliente,Surco,alta,-12.150235,-77.017383,3,2
+256,Cliente #256 (Jesus Maria),cliente,Jesus Maria,media,-12.074362,-77.050343,5,3
+257,Cliente #257 (Lince),cliente,Lince,media,-12.105913,-77.016093,2,2
+258,Cliente #258 (Rimac),cliente,Rimac,baja,-12.015747,-77.021464,3,1
+259,Cliente #259 (Villa Maria),cliente,Villa Maria,baja,-12.149921,-76.959277,3,2
+260,Hub Rappi Villa El Salvador,hub_rappi,Villa El Salvador,baja,-12.222075,-76.942233,175,273
+261,Cliente #261 (Rimac),cliente,Rimac,baja,-12.041701,-77.020082,4,2
+262,Intersec. Via Expresa (Lince),interseccion,Lince,media,-12.10193,-77.048201,0,0
+263,Intersec. Av. La Encalada (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.169689,-76.989684,0,0
+264,Intersec. Av. Universitaria (Puente Piedra),interseccion,Puente Piedra,baja,-11.878149,-77.080045,0,0
+265,Cliente #265 (Lurin),cliente,Lurin,baja,-12.270843,-76.890856,5,1
+266,Hub Rappi Ate,hub_rappi,Ate,baja,-12.025333,-76.928566,139,300
+267,Intersec. Av. Salaverry (Santa Anita),interseccion,Santa Anita,baja,-12.038428,-76.97511,0,0
+268,Cliente #268 (Barranco),cliente,Barranco,alta,-12.125114,-77.026184,3,3
+269,Cliente #269 (San Martin Porres),cliente,San Martin Porres,baja,-12.038381,-77.058807,4,2
+270,Cliente #270 (Callao),cliente,Callao,baja,-12.058931,-77.106154,1,2
+271,Intersec. Av. Larco (San Isidro),interseccion,San Isidro,muy_alta,-12.087503,-77.015733,0,0
+272,Cliente #272 (Santa Anita),cliente,Santa Anita,baja,-12.058898,-76.946796,1,3
+273,Cliente #273 (Carabayllo),cliente,Carabayllo,baja,-11.871128,-77.020443,3,3
+274,Intersec. Av. Colonial (Carabayllo),interseccion,Carabayllo,baja,-11.898254,-77.022048,0,0
+275,Hub Rappi Pueblo Libre,hub_rappi,Pueblo Libre,media,-12.077511,-77.063043,363,269
+276,Cliente #276 (Magdalena),cliente,Magdalena,media,-12.092613,-77.053599,2,3
+277,Intersec. Av. Universitaria (Pachacamac),interseccion,Pachacamac,baja,-12.236159,-76.886318,0,0
+278,Intersec. Av. 28 de Julio (Lima Cercado),interseccion,Lima Cercado,media,-12.060887,-77.024568,0,0
+279,Intersec. Av. Larco (Santa Anita),interseccion,Santa Anita,baja,-12.064584,-76.951553,0,0
+280,Cliente #280 (Lince),cliente,Lince,media,-12.09585,-77.047321,1,1
+281,Cliente #281 (Miraflores),cliente,Miraflores,muy_alta,-12.110358,-77.009245,5,3
+282,Intersec. Av. Aviacion (San Borja),interseccion,San Borja,alta,-12.11709,-77.009171,0,0
+283,Cliente #283 (Lima Cercado),cliente,Lima Cercado,media,-12.042426,-77.038637,1,2
+284,Tanta (San Borja),restaurante,San Borja,alta,-12.125049,-77.006904,18,25
+285,Intersec. Av. Angamos (Lince),interseccion,Lince,media,-12.101833,-77.028093,0,0
+286,Intersec. Av. Benavides (Lurin),interseccion,Lurin,baja,-12.28903,-76.883504,0,0
+287,Cliente #287 (El Agustino),cliente,El Agustino,baja,-12.04164,-77.004728,3,3
+288,Intersec. Av. Colonial (Miraflores),interseccion,Miraflores,muy_alta,-12.131902,-77.040008,0,0
+289,Cliente #289 (San Isidro),cliente,San Isidro,muy_alta,-12.116535,-77.014856,4,3
+290,Intersec. Av. Aviacion (San Martin Porres),interseccion,San Martin Porres,baja,-12.025562,-77.086623,0,0
+291,Cliente #291 (Jesus Maria),cliente,Jesus Maria,media,-12.079657,-77.030961,4,2
+292,Intersec. Av. Brasil (Ate),interseccion,Ate,baja,-12.042585,-76.897511,0,0
+293,Intersec. Av. Aviacion (Comas),interseccion,Comas,baja,-11.94916,-77.057904,0,0
+294,Cliente #294 (Barranco),cliente,Barranco,alta,-12.133301,-77.02375,4,2
+295,Hub Rappi San Martin Porres,hub_rappi,San Martin Porres,baja,-12.038629,-77.090638,354,247
+296,Intersec. Av. Arequipa (San Martin Porres),interseccion,San Martin Porres,baja,-12.026891,-77.086792,0,0
+297,Intersec. Av. Caminos del Inca (Carabayllo),interseccion,Carabayllo,baja,-11.874264,-77.015299,0,0
+298,Intersec. Av. Brasil (Lima Cercado),interseccion,Lima Cercado,media,-12.059251,-77.050849,0,0
+299,Cliente #299 (Villa Maria),cliente,Villa Maria,baja,-12.173388,-76.921594,5,2
+300,Intersec. Av. Universitaria (Miraflores),interseccion,Miraflores,muy_alta,-12.12575,-77.047422,0,0
+301,Intersec. Av. Arequipa (Magdalena),interseccion,Magdalena,media,-12.110596,-77.055925,0,0
+302,Intersec. Av. El Derby (Chorrillos),interseccion,Chorrillos,media,-12.162681,-77.015222,0,0
+303,Cliente #303 (San Isidro),cliente,San Isidro,muy_alta,-12.078727,-77.042138,3,2
+304,Intersec. Av. El Derby (El Agustino),interseccion,El Agustino,baja,-12.05989,-77.021771,0,0
+305,Intersec. Av. La Encalada (Surco),interseccion,Surco,alta,-12.135955,-76.983312,0,0
+306,Hub Rappi San Miguel,hub_rappi,San Miguel,media,-12.082537,-77.106399,490,498
+307,Cliente #307 (Santa Anita),cliente,Santa Anita,baja,-12.041795,-76.958977,2,2
+308,Intersec. Av. Javier Prado (Lima Cercado),interseccion,Lima Cercado,media,-12.050464,-77.016384,0,0
+309,Intersec. Via Expresa (Jesus Maria),interseccion,Jesus Maria,media,-12.067916,-77.050412,0,0
+310,Intersec. Av. Caminos del Inca (San Martin Porres),interseccion,San Martin Porres,baja,-12.031881,-77.064042,0,0
+311,Intersec. Av. La Marina (San Martin Porres),interseccion,San Martin Porres,baja,-12.035815,-77.048272,0,0
+312,Intersec. Av. Tomas Marsano (Independencia),interseccion,Independencia,baja,-11.992523,-77.068694,0,0
+313,Cliente #313 (San Martin Porres),cliente,San Martin Porres,baja,-12.001115,-77.083432,1,2
+314,Cliente #314 (Ate),cliente,Ate,baja,-12.023279,-76.903007,1,3
+315,Intersec. Av. La Marina (Miraflores),interseccion,Miraflores,muy_alta,-12.133146,-77.017918,0,0
+316,Intersec. Av. Javier Prado (Callao),interseccion,Callao,baja,-12.039317,-77.11288,0,0
+317,Hub Rappi El Agustino,hub_rappi,El Agustino,baja,-12.052632,-77.011959,341,274
+318,Hub Rappi Lima Cercado,hub_rappi,Lima Cercado,media,-12.04512,-77.048557,367,480
+319,Intersec. Av. Aviacion (Rimac),interseccion,Rimac,baja,-12.044802,-77.017123,0,0
+320,Intersec. Av. El Derby (San Borja),interseccion,San Borja,alta,-12.122737,-76.985877,0,0
+321,Hub Rappi Comas,hub_rappi,Comas,baja,-11.951841,-77.053258,169,363
+322,Cliente #322 (Comas),cliente,Comas,baja,-11.954626,-77.028748,4,2
+323,Intersec. Av. Universitaria (Jesus Maria),interseccion,Jesus Maria,media,-12.065255,-77.036382,0,0
+324,Intersec. Av. Primavera (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.191943,-76.919254,0,0
+325,Hub Rappi Lurin,hub_rappi,Lurin,baja,-12.286813,-76.869421,178,293
+326,Cliente #326 (Comas),cliente,Comas,baja,-11.918028,-77.063937,2,2
+327,Cliente #327 (La Molina),cliente,La Molina,media,-12.096418,-76.963405,5,2
+328,Cliente #328 (Puente Piedra),cliente,Puente Piedra,baja,-11.854471,-77.071293,2,2
+329,Cliente #329 (San Martin Porres),cliente,San Martin Porres,baja,-12.0281,-77.082556,5,2
+330,Cliente #330 (Santa Anita),cliente,Santa Anita,baja,-12.026212,-76.975733,3,2
+331,Cliente #331 (Puente Piedra),cliente,Puente Piedra,baja,-11.857048,-77.101726,1,3
+332,Cliente #332 (Carabayllo),cliente,Carabayllo,baja,-11.861081,-77.01452,3,3
+333,Intersec. Av. Benavides (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.160199,-76.975256,0,0
+334,Cliente #334 (La Molina),cliente,La Molina,media,-12.10125,-76.949475,1,3
+335,Cliente #335 (San Martin Porres),cliente,San Martin Porres,baja,-12.031008,-77.061137,2,2
+336,Intersec. Av. Petit Thouars (Rimac),interseccion,Rimac,baja,-12.019686,-77.017741,0,0
+337,Cliente #337 (San Borja),cliente,San Borja,alta,-12.115495,-76.986983,4,1
+338,Intersec. Av. Caminos del Inca (Lurin),interseccion,Lurin,baja,-12.27228,-76.881271,0,0
+339,Cliente #339 (Brena),cliente,Brena,media,-12.054329,-77.038976,2,2
+340,Intersec. Av. Primavera (Chorrillos),interseccion,Chorrillos,media,-12.154687,-77.000641,0,0
+341,Cliente #341 (Rimac),cliente,Rimac,baja,-12.011538,-77.044132,2,1
+342,Intersec. Av. Universitaria (Surco),interseccion,Surco,alta,-12.138484,-77.008864,0,0
+343,Cliente #343 (Brena),cliente,Brena,media,-12.081195,-77.059883,2,3
+344,Intersec. Av. 28 de Julio (Villa Maria),interseccion,Villa Maria,baja,-12.177354,-76.963057,0,0
+345,Cliente #345 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.172863,-76.961869,4,2
+346,Cliente #346 (Rimac),cliente,Rimac,baja,-12.033649,-77.023661,4,3
+347,Cliente #347 (Callao),cliente,Callao,baja,-12.042133,-77.110512,1,1
+348,Cliente #348 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.207726,-76.92886,5,1
+349,Intersec. Av. Santa Cruz (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.212581,-76.924224,0,0
+350,Cliente #350 (San Borja),cliente,San Borja,alta,-12.102808,-76.985152,4,3
+351,Intersec. Av. Javier Prado (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.20672,-76.943246,0,0
+352,Intersec. Av. La Encalada (Santa Anita),interseccion,Santa Anita,baja,-12.031954,-76.945465,0,0
+353,Cliente #353 (Villa Maria),cliente,Villa Maria,baja,-12.152327,-76.951191,5,1
+354,Cliente #354 (Miraflores),cliente,Miraflores,muy_alta,-12.108512,-77.045373,5,1
+355,Cliente #355 (Chorrillos),cliente,Chorrillos,media,-12.157598,-77.027304,3,3
+356,Cliente #356 (Magdalena),cliente,Magdalena,media,-12.089581,-77.04916,4,2
+357,Cliente #357 (San Borja),cliente,San Borja,alta,-12.126907,-77.021527,4,2
+358,Cliente #358 (Villa Maria),cliente,Villa Maria,baja,-12.165148,-76.92729,3,1
+359,Cliente #359 (Comas),cliente,Comas,baja,-11.958995,-77.031754,1,3
+360,Intersec. Av. Salaverry (Villa Maria),interseccion,Villa Maria,baja,-12.148459,-76.940639,0,0
+361,Cliente #361 (San Isidro),cliente,San Isidro,muy_alta,-12.108179,-77.029319,4,3
+362,Intersec. Av. Colonial (Santa Anita),interseccion,Santa Anita,baja,-12.060984,-76.953738,0,0
+363,Intersec. Av. La Encalada (Villa Maria),interseccion,Villa Maria,baja,-12.141724,-76.921474,0,0
+364,La Mar (Rimac),restaurante,Rimac,baja,-12.044672,-77.012411,20,79
+365,Intersec. Av. 28 de Julio (San Martin Porres),interseccion,San Martin Porres,baja,-12.03124,-77.067294,0,0
+366,Intersec. Av. Aviacion (Villa Maria),interseccion,Villa Maria,baja,-12.181301,-76.936435,0,0
+367,Cliente #367 (Carabayllo),cliente,Carabayllo,baja,-11.88297,-77.029606,2,1
+368,Intersec. Av. 28 de Julio (Barranco),interseccion,Barranco,alta,-12.123306,-77.015123,0,0
+369,Osaka (Los Olivos),restaurante,Los Olivos,baja,-12.000862,-77.057069,69,30
+370,Intersec. Av. 28 de Julio (Carabayllo),interseccion,Carabayllo,baja,-11.863552,-77.047028,0,0
+371,Intersec. Av. Colonial (San Isidro),interseccion,San Isidro,muy_alta,-12.086222,-77.020421,0,0
+372,Cliente #372 (La Molina),cliente,La Molina,media,-12.075581,-76.943672,3,3
+373,Cliente #373 (Pachacamac),cliente,Pachacamac,baja,-12.21073,-76.860104,5,2
+374,Hub Rappi San Martin Porres,hub_rappi,San Martin Porres,baja,-12.006916,-77.079739,378,467
+375,Cliente #375 (El Agustino),cliente,El Agustino,baja,-12.047251,-77.025524,4,3
+376,Cliente #376 (Miraflores),cliente,Miraflores,muy_alta,-12.122442,-77.010206,2,1
+377,Cliente #377 (Magdalena),cliente,Magdalena,media,-12.068147,-77.071382,1,1
+378,Cliente #378 (Lima Cercado),cliente,Lima Cercado,media,-12.041258,-77.032659,4,1
+379,Intersec. Av. La Encalada (Jesus Maria),interseccion,Jesus Maria,media,-12.090182,-77.031678,0,0
+380,Intersec. Av. Benavides (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.225622,-76.935799,0,0
+381,Cliente #381 (Chorrillos),cliente,Chorrillos,media,-12.16379,-77.020277,3,1
+382,Intersec. Via Expresa (Independencia),interseccion,Independencia,baja,-11.97312,-77.066314,0,0
+383,Intersec. Av. Caminos del Inca (Ate),interseccion,Ate,baja,-12.023646,-76.901471,0,0
+384,Intersec. Av. Tomas Marsano (Rimac),interseccion,Rimac,baja,-12.017185,-77.014517,0,0
+385,Cliente #385 (Jesus Maria),cliente,Jesus Maria,media,-12.075247,-77.033508,2,1
+386,Cliente #386 (Lince),cliente,Lince,media,-12.103592,-77.042076,1,2
+387,Cliente #387 (Villa Maria),cliente,Villa Maria,baja,-12.161217,-76.925799,1,3
+388,Intersec. Av. Primavera (San Martin Porres),interseccion,San Martin Porres,baja,-12.005462,-77.077936,0,0
+389,Intersec. Av. Arequipa (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.158103,-76.967526,0,0
+390,Intersec. Av. Angamos (El Agustino),interseccion,El Agustino,baja,-12.058705,-77.022006,0,0
+391,Intersec. Av. Larco (Chorrillos),interseccion,Chorrillos,media,-12.165953,-77.009168,0,0
+392,Intersec. Av. Salaverry (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.147614,-76.998515,0,0
+393,Cliente #393 (Pueblo Libre),cliente,Pueblo Libre,media,-12.094339,-77.048935,3,2
+394,Intersec. Av. Petit Thouars (San Martin Porres),interseccion,San Martin Porres,baja,-12.029433,-77.063259,0,0
+395,Hub Rappi Magdalena,hub_rappi,Magdalena,media,-12.108826,-77.071353,150,235
+396,Cliente #396 (Los Olivos),cliente,Los Olivos,baja,-11.981058,-77.051851,2,1
+397,Intersec. Av. 28 de Julio (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.210804,-76.95068,0,0
+398,Cliente #398 (El Agustino),cliente,El Agustino,baja,-12.047961,-77.003695,2,3
+399,Intersec. Av. Petit Thouars (San Isidro),interseccion,San Isidro,muy_alta,-12.109762,-77.033298,0,0
+400,Intersec. Av. Tomas Marsano (San Borja),interseccion,San Borja,alta,-12.115194,-77.013239,0,0
+401,Intersec. Av. La Encalada (Rimac),interseccion,Rimac,baja,-12.00805,-77.023185,0,0
+402,Cliente #402 (Independencia),cliente,Independencia,baja,-11.992422,-77.060737,4,2
+403,Cliente #403 (Chorrillos),cliente,Chorrillos,media,-12.177058,-77.015259,4,3
+404,Cliente #404 (Comas),cliente,Comas,baja,-11.920427,-77.066846,1,2
+405,Cliente #405 (Miraflores),cliente,Miraflores,muy_alta,-12.132444,-77.017611,3,2
+406,Cliente #406 (San Isidro),cliente,San Isidro,muy_alta,-12.092352,-77.016795,2,2
+407,Cliente #407 (Rimac),cliente,Rimac,baja,-12.012157,-77.036086,5,3
+408,Intersec. Av. La Encalada (Ate),interseccion,Ate,baja,-12.025844,-76.931326,0,0
+409,Intersec. Av. La Marina (Lima Cercado),interseccion,Lima Cercado,media,-12.057097,-77.014847,0,0
+410,Cliente #410 (Miraflores),cliente,Miraflores,muy_alta,-12.111129,-77.035922,2,3
+411,Intersec. Av. Caminos del Inca (Pachacamac),interseccion,Pachacamac,baja,-12.224575,-76.86051,0,0
+412,Cliente #412 (Callao),cliente,Callao,baja,-12.062684,-77.103288,1,3
+413,Intersec. Av. Petit Thouars (Comas),interseccion,Comas,baja,-11.940178,-77.031,0,0
+414,Intersec. Av. Benavides (Ate),interseccion,Ate,baja,-12.035398,-76.892582,0,0
+415,Cliente #415 (San Borja),cliente,San Borja,alta,-12.105642,-76.992611,4,3
+416,Cliente #416 (San Martin Porres),cliente,San Martin Porres,baja,-12.031107,-77.069258,2,3
+417,Hub Rappi Los Olivos,hub_rappi,Los Olivos,baja,-12.009173,-77.070451,444,210
+418,Hub Rappi La Molina,hub_rappi,La Molina,media,-12.091015,-76.964279,206,468
+419,Cliente #419 (Surco),cliente,Surco,alta,-12.129348,-76.991525,4,1
+420,Intersec. Av. Brasil (La Molina),interseccion,La Molina,media,-12.083157,-76.935233,0,0
+421,Intersec. Av. El Derby (Puente Piedra),interseccion,Puente Piedra,baja,-11.885458,-77.087366,0,0
+422,Intersec. Av. La Marina (Ate),interseccion,Ate,baja,-12.051641,-76.895829,0,0
+423,Cliente #423 (San Isidro),cliente,San Isidro,muy_alta,-12.098356,-77.054305,1,1
+424,Hub Rappi Santa Anita,hub_rappi,Santa Anita,baja,-12.046695,-76.964961,161,437
+425,Intersec. Av. El Derby (Los Olivos),interseccion,Los Olivos,baja,-11.971128,-77.075192,0,0
+426,Intersec. Av. Colonial (Santa Anita),interseccion,Santa Anita,baja,-12.044653,-76.951634,0,0
+427,Cliente #427 (San Borja),cliente,San Borja,alta,-12.103387,-76.994525,2,1
+428,Segundo Muelle (San Borja),restaurante,San Borja,alta,-12.087541,-76.999138,26,82
+429,Intersec. Av. Benavides (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.200401,-76.959156,0,0
+430,Intersec. Av. Larco (Surco),interseccion,Surco,alta,-12.158222,-76.985912,0,0
+431,Cliente #431 (Independencia),cliente,Independencia,baja,-12.002793,-77.058003,1,1
+432,Cliente #432 (Comas),cliente,Comas,baja,-11.955734,-77.06199,4,2
+433,Intersec. Via Expresa (Barranco),interseccion,Barranco,alta,-12.151974,-77.022047,0,0
+434,Intersec. Av. Universitaria (Santa Anita),interseccion,Santa Anita,baja,-12.056626,-76.95049,0,0
+435,Cliente #435 (Pueblo Libre),cliente,Pueblo Libre,media,-12.084783,-77.06051,2,1
+436,Intersec. Av. El Derby (Ate),interseccion,Ate,baja,-12.029644,-76.917219,0,0
+437,Intersec. Av. Primavera (El Agustino),interseccion,El Agustino,baja,-12.052034,-77.017914,0,0
+438,Cliente #438 (La Molina),cliente,La Molina,media,-12.091729,-76.963178,5,2
+439,Hub Rappi Lima Cercado,hub_rappi,Lima Cercado,media,-12.03861,-77.009673,229,456
+440,Intersec. Av. Caminos del Inca (Rimac),interseccion,Rimac,baja,-12.035491,-77.02585,0,0
+441,Cliente #441 (El Agustino),cliente,El Agustino,baja,-12.032934,-76.998051,4,2
+442,Cliente #442 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.177718,-76.975299,2,2
+443,Cliente #443 (Chorrillos),cliente,Chorrillos,media,-12.159341,-77.032431,5,3
+444,Hub Rappi Lince,hub_rappi,Lince,media,-12.090161,-77.041514,369,205
+445,Cliente #445 (Lurin),cliente,Lurin,baja,-12.282694,-76.875593,1,2
+446,Intersec. Av. Petit Thouars (Independencia),interseccion,Independencia,baja,-11.980266,-77.050577,0,0
+447,Cliente #447 (Puente Piedra),cliente,Puente Piedra,baja,-11.857768,-77.062019,5,3
+448,Hub Rappi Callao,hub_rappi,Callao,baja,-12.051649,-77.105905,311,400
+449,Cliente #449 (Barranco),cliente,Barranco,alta,-12.147646,-77.003746,5,1
+450,Cliente #450 (Santa Anita),cliente,Santa Anita,baja,-12.058959,-76.979049,4,1
+451,Cliente #451 (Puente Piedra),cliente,Puente Piedra,baja,-11.848858,-77.079479,4,1
+452,Intersec. Av. Santa Cruz (Barranco),interseccion,Barranco,alta,-12.148973,-77.001888,0,0
+453,Cliente #453 (Puente Piedra),cliente,Puente Piedra,baja,-11.882961,-77.06613,1,3
+454,Cliente #454 (Surco),cliente,Surco,alta,-12.146748,-76.986998,1,1
+455,Cliente #455 (Santa Anita),cliente,Santa Anita,baja,-12.039209,-76.978702,4,2
+456,Intersec. Av. Javier Prado (San Isidro),interseccion,San Isidro,muy_alta,-12.087553,-77.019761,0,0
+457,Cliente #457 (Carabayllo),cliente,Carabayllo,baja,-11.870412,-77.032161,4,1
+458,Intersec. Av. Brasil (Magdalena),interseccion,Magdalena,media,-12.109712,-77.06799,0,0
+459,Cliente #459 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.13992,-76.98268,4,3
+460,Intersec. Av. Colonial (Callao),interseccion,Callao,baja,-12.04368,-77.117921,0,0
+461,Cliente #461 (San Miguel),cliente,San Miguel,media,-12.060157,-77.097704,4,2
+462,Cliente #462 (Miraflores),cliente,Miraflores,muy_alta,-12.140903,-77.045283,2,1
+463,Intersec. Av. Arequipa (Lurin),interseccion,Lurin,baja,-12.265087,-76.856585,0,0
+464,Intersec. Via Expresa (Pachacamac),interseccion,Pachacamac,baja,-12.246003,-76.890522,0,0
+465,Cliente #465 (San Isidro),cliente,San Isidro,muy_alta,-12.103708,-77.047694,3,1
+466,Cliente #466 (Santa Anita),cliente,Santa Anita,baja,-12.035337,-76.953301,4,1
+467,Intersec. Av. Primavera (Carabayllo),interseccion,Carabayllo,baja,-11.88695,-77.032375,0,0
+468,Cliente #468 (Pachacamac),cliente,Pachacamac,baja,-12.243079,-76.87566,5,2
+469,Hub Rappi Callao,hub_rappi,Callao,baja,-12.04937,-77.096926,132,224
+470,Intersec. Av. La Encalada (Miraflores),interseccion,Miraflores,muy_alta,-12.133976,-77.047396,0,0
+471,Cliente #471 (Chorrillos),cliente,Chorrillos,media,-12.159862,-77.026368,5,2
+472,Intersec. Av. Benavides (San Miguel),interseccion,San Miguel,media,-12.057178,-77.081811,0,0
+473,Cliente #473 (Miraflores),cliente,Miraflores,muy_alta,-12.13888,-77.036726,2,1
+474,Intersec. Av. El Derby (Lurin),interseccion,Lurin,baja,-12.259877,-76.879365,0,0
+475,Intersec. Av. Primavera (Miraflores),interseccion,Miraflores,muy_alta,-12.115049,-77.034314,0,0
+476,Cliente #476 (Ate),cliente,Ate,baja,-12.033965,-76.904572,2,1
+477,Intersec. Av. Primavera (San Isidro),interseccion,San Isidro,muy_alta,-12.110712,-77.042279,0,0
+478,Cliente #478 (Lurin),cliente,Lurin,baja,-12.263474,-76.85483,4,1
+479,Intersec. Av. Benavides (Los Olivos),interseccion,Los Olivos,baja,-12.006551,-77.079207,0,0
+480,Cliente #480 (Comas),cliente,Comas,baja,-11.932165,-77.070539,3,2
+481,Cliente #481 (Independencia),cliente,Independencia,baja,-11.973051,-77.073063,3,3
+482,Cliente #482 (Brena),cliente,Brena,media,-12.04528,-77.069298,1,3
+483,Cliente #483 (Magdalena),cliente,Magdalena,media,-12.078247,-77.064063,5,2
+484,Intersec. Av. Petit Thouars (Rimac),interseccion,Rimac,baja,-12.021065,-77.046124,0,0
+485,Cliente #485 (Ate),cliente,Ate,baja,-12.014972,-76.91747,3,1
+486,Cliente #486 (Los Olivos),cliente,Los Olivos,baja,-11.987113,-77.054602,5,3
+487,Intersec. Av. Benavides (Magdalena),interseccion,Magdalena,media,-12.080021,-77.069669,0,0
+488,Intersec. Av. Larco (Villa Maria),interseccion,Villa Maria,baja,-12.172155,-76.94152,0,0
+489,Cliente #489 (Lurin),cliente,Lurin,baja,-12.273301,-76.863914,5,1
+490,Cliente #490 (El Agustino),cliente,El Agustino,baja,-12.029832,-77.007762,3,3
+491,Intersec. Av. Arequipa (Rimac),interseccion,Rimac,baja,-12.014952,-77.021637,0,0
+492,Intersec. Av. Arequipa (San Miguel),interseccion,San Miguel,media,-12.094974,-77.098276,0,0
+493,Cliente #493 (Pueblo Libre),cliente,Pueblo Libre,media,-12.074493,-77.062243,3,2
+494,Cliente #494 (Miraflores),cliente,Miraflores,muy_alta,-12.139344,-77.04085,3,2
+495,Intersec. Av. Javier Prado (San Miguel),interseccion,San Miguel,media,-12.070557,-77.107474,0,0
+496,Intersec. Av. Larco (Comas),interseccion,Comas,baja,-11.941105,-77.034489,0,0
+497,Cliente #497 (Miraflores),cliente,Miraflores,muy_alta,-12.106052,-77.049505,3,1
+498,Intersec. Av. Petit Thouars (Miraflores),interseccion,Miraflores,muy_alta,-12.100874,-77.047373,0,0
+499,Cliente #499 (La Molina),cliente,La Molina,media,-12.07344,-76.955306,4,1
+500,Intersec. Av. Aviacion (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.177691,-76.975976,0,0
+501,Cliente #501 (Callao),cliente,Callao,baja,-12.052855,-77.134031,4,1
+502,Cliente #502 (Carabayllo),cliente,Carabayllo,baja,-11.86354,-77.049956,4,1
+503,Intersec. Av. Angamos (San Miguel),interseccion,San Miguel,media,-12.091325,-77.078465,0,0
+504,Cliente #504 (Surco),cliente,Surco,alta,-12.166577,-76.99373,5,1
+505,Cliente #505 (Barranco),cliente,Barranco,alta,-12.143054,-77.007782,2,2
+506,Intersec. Av. Brasil (San Miguel),interseccion,San Miguel,media,-12.088298,-77.085863,0,0
+507,Intersec. Av. Angamos (Los Olivos),interseccion,Los Olivos,baja,-12.010407,-77.08351,0,0
+508,Intersec. Av. Benavides (Pueblo Libre),interseccion,Pueblo Libre,media,-12.077652,-77.058389,0,0
+509,Intersec. Av. La Marina (Barranco),interseccion,Barranco,alta,-12.127067,-77.010726,0,0
+510,Intersec. Av. 28 de Julio (Lima Cercado),interseccion,Lima Cercado,media,-12.029379,-77.046663,0,0
+511,Intersec. Av. La Marina (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.159924,-76.958308,0,0
+512,Cliente #512 (Lince),cliente,Lince,media,-12.103676,-77.019238,2,1
+513,Cliente #513 (Pueblo Libre),cliente,Pueblo Libre,media,-12.053766,-77.043971,2,2
+514,Intersec. Via Expresa (Comas),interseccion,Comas,baja,-11.943663,-77.038772,0,0
+515,Cliente #515 (Santa Anita),cliente,Santa Anita,baja,-12.031144,-76.960731,5,3
+516,Cliente #516 (La Molina),cliente,La Molina,media,-12.065833,-76.938471,4,2
+517,Hub Rappi San Borja,hub_rappi,San Borja,alta,-12.115397,-76.992696,173,304
+518,Intersec. Via Expresa (San Martin Porres),interseccion,San Martin Porres,baja,-12.000235,-77.062842,0,0
+519,Intersec. Av. Benavides (Ate),interseccion,Ate,baja,-12.029223,-76.919446,0,0
+520,Intersec. Av. La Marina (Puente Piedra),interseccion,Puente Piedra,baja,-11.868255,-77.066758,0,0
+521,Intersec. Av. Tomas Marsano (Brena),interseccion,Brena,media,-12.056067,-77.052917,0,0
+522,Intersec. Av. Primavera (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.150542,-76.984596,0,0
+523,Cliente #523 (San Martin Porres),cliente,San Martin Porres,baja,-12.012307,-77.09156,4,1
+524,Intersec. Av. El Derby (Los Olivos),interseccion,Los Olivos,baja,-11.998371,-77.075215,0,0
+525,Intersec. Av. Angamos (Miraflores),interseccion,Miraflores,muy_alta,-12.097735,-77.01521,0,0
+526,Cliente #526 (Comas),cliente,Comas,baja,-11.958555,-77.044981,4,1
+527,Cliente #527 (Pachacamac),cliente,Pachacamac,baja,-12.226699,-76.863696,4,2
+528,Intersec. Av. Santa Cruz (Lima Cercado),interseccion,Lima Cercado,media,-12.047288,-77.018158,0,0
+529,Sushi Ito (Rimac),restaurante,Rimac,baja,-12.009298,-77.036608,79,40
+530,Intersec. Av. Santa Cruz (Carabayllo),interseccion,Carabayllo,baja,-11.878199,-77.020037,0,0
+531,Cliente #531 (Miraflores),cliente,Miraflores,muy_alta,-12.104732,-77.014659,4,3
+532,Hub Rappi Los Olivos,hub_rappi,Los Olivos,baja,-11.976716,-77.073384,487,358
+533,Intersec. Av. Santa Cruz (Pueblo Libre),interseccion,Pueblo Libre,media,-12.068703,-77.063824,0,0
+534,Cliente #534 (Barranco),cliente,Barranco,alta,-12.146476,-77.003069,5,3
+535,Intersec. Av. Universitaria (Rimac),interseccion,Rimac,baja,-12.011514,-77.021173,0,0
+536,Intersec. Av. Caminos del Inca (El Agustino),interseccion,El Agustino,baja,-12.033168,-77.028856,0,0
+537,Intersec. Av. Santa Cruz (Ate),interseccion,Ate,baja,-12.031978,-76.901722,0,0
+538,Intersec. Av. El Derby (Callao),interseccion,Callao,baja,-12.04785,-77.108389,0,0
+539,Hub Rappi Chorrillos,hub_rappi,Chorrillos,media,-12.180251,-77.006681,198,325
+540,Cliente #540 (Magdalena),cliente,Magdalena,media,-12.10657,-77.062639,2,3
+541,Intersec. Av. Primavera (Chorrillos),interseccion,Chorrillos,media,-12.152219,-77.029198,0,0
+542,Intersec. Av. Brasil (El Agustino),interseccion,El Agustino,baja,-12.04685,-76.995665,0,0
+543,Intersec. Av. Colonial (Independencia),interseccion,Independencia,baja,-11.981086,-77.057874,0,0
+544,Cliente #544 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.195452,-76.946574,3,1
+545,Intersec. Av. La Encalada (Carabayllo),interseccion,Carabayllo,baja,-11.898535,-77.039902,0,0
+546,Intersec. Av. Aviacion (Callao),interseccion,Callao,baja,-12.058902,-77.127062,0,0
+547,Intersec. Av. El Derby (Barranco),interseccion,Barranco,alta,-12.148481,-77.037152,0,0
+548,Cliente #548 (Lince),cliente,Lince,media,-12.079729,-77.053413,3,1
+549,Intersec. Av. Salaverry (Lima Cercado),interseccion,Lima Cercado,media,-12.033353,-77.024478,0,0
+550,Intersec. Av. Petit Thouars (Magdalena),interseccion,Magdalena,media,-12.07958,-77.060625,0,0
+551,Intersec. Av. Brasil (La Molina),interseccion,La Molina,media,-12.064066,-76.930234,0,0
+552,Intersec. Av. Tomas Marsano (Callao),interseccion,Callao,baja,-12.064666,-77.130355,0,0
+553,Intersec. Av. Javier Prado (Ate),interseccion,Ate,baja,-12.020415,-76.914853,0,0
+554,Cliente #554 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.207582,-76.918478,5,2
+555,Intersec. Av. Universitaria (Puente Piedra),interseccion,Puente Piedra,baja,-11.878667,-77.084346,0,0
+556,Intersec. Av. 28 de Julio (Callao),interseccion,Callao,baja,-12.060176,-77.097124,0,0
+557,Cliente #557 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.173608,-76.987133,3,3
+558,Cliente #558 (San Martin Porres),cliente,San Martin Porres,baja,-12.012811,-77.084516,5,1
+559,Cliente #559 (Rimac),cliente,Rimac,baja,-12.03287,-77.022487,2,2
+560,Intersec. Av. Universitaria (Santa Anita),interseccion,Santa Anita,baja,-12.042111,-76.956707,0,0
+561,Cliente #561 (Comas),cliente,Comas,baja,-11.925492,-77.07189,1,3
+562,Hub Rappi Puente Piedra,hub_rappi,Puente Piedra,baja,-11.85194,-77.100588,268,408
+563,Cliente #563 (Villa Maria),cliente,Villa Maria,baja,-12.143649,-76.943274,3,3
+564,Intersec. Av. El Derby (Chorrillos),interseccion,Chorrillos,media,-12.181885,-77.019901,0,0
+565,Intersec. Av. Colonial (Independencia),interseccion,Independencia,baja,-11.975475,-77.067868,0,0
+566,Hub Rappi Chorrillos,hub_rappi,Chorrillos,media,-12.152125,-77.027914,264,221
+567,Intersec. Av. 28 de Julio (Villa Maria),interseccion,Villa Maria,baja,-12.178628,-76.949795,0,0
+568,Cliente #568 (San Martin Porres),cliente,San Martin Porres,baja,-12.019788,-77.087474,2,3
+569,China Wok (San Juan Lurig),restaurante,San Juan Lurig,baja,-12.146671,-76.981769,52,74
+570,Intersec. Av. Petit Thouars (Jesus Maria),interseccion,Jesus Maria,media,-12.066287,-77.040474,0,0
+571,Intersec. Av. Tomas Marsano (San Isidro),interseccion,San Isidro,muy_alta,-12.097182,-77.034462,0,0
+572,Cliente #572 (San Isidro),cliente,San Isidro,muy_alta,-12.084716,-77.028748,2,3
+573,Intersec. Av. Tomas Marsano (Villa Maria),interseccion,Villa Maria,baja,-12.177997,-76.941022,0,0
+574,Intersec. Av. Arequipa (Lurin),interseccion,Lurin,baja,-12.267126,-76.866265,0,0
+575,Intersec. Av. Larco (La Molina),interseccion,La Molina,media,-12.09382,-76.931259,0,0
+576,Cliente #576 (Jesus Maria),cliente,Jesus Maria,media,-12.05701,-77.034082,2,3
+577,Cliente #577 (Lima Cercado),cliente,Lima Cercado,media,-12.050722,-77.021205,4,2
+578,Intersec. Av. Aviacion (El Agustino),interseccion,El Agustino,baja,-12.037497,-76.988091,0,0
+579,Cliente #579 (Lince),cliente,Lince,media,-12.106146,-77.033364,5,1
+580,Cliente #580 (Lima Cercado),cliente,Lima Cercado,media,-12.026884,-77.014183,1,2
+581,Cliente #581 (Puente Piedra),cliente,Puente Piedra,baja,-11.859228,-77.065514,1,1
+582,Cliente #582 (Pachacamac),cliente,Pachacamac,baja,-12.235537,-76.879756,2,1
+583,Hub Rappi Jesus Maria,hub_rappi,Jesus Maria,media,-12.088987,-77.054082,218,243
+584,Cliente #584 (Surco),cliente,Surco,alta,-12.156843,-77.020751,1,2
+585,Intersec. Av. El Derby (Rimac),interseccion,Rimac,baja,-12.025251,-77.016343,0,0
+586,Intersec. Av. Brasil (Chorrillos),interseccion,Chorrillos,media,-12.151186,-77.006683,0,0
+587,Intersec. Av. La Marina (San Miguel),interseccion,San Miguel,media,-12.074453,-77.090557,0,0
+588,Cliente #588 (Comas),cliente,Comas,baja,-11.928212,-77.057365,4,2
+589,Intersec. Av. Larco (Ate),interseccion,Ate,baja,-12.018736,-76.890367,0,0
+590,Cliente #590 (Pueblo Libre),cliente,Pueblo Libre,media,-12.085186,-77.069537,1,3
+591,Intersec. Av. Universitaria (Pachacamac),interseccion,Pachacamac,baja,-12.227875,-76.861167,0,0
+592,Intersec. Av. La Marina (Surco),interseccion,Surco,alta,-12.151818,-77.0216,0,0
+593,Cliente #593 (Villa Maria),cliente,Villa Maria,baja,-12.147546,-76.920958,3,3
+594,Intersec. Av. Javier Prado (Chorrillos),interseccion,Chorrillos,media,-12.180463,-77.039545,0,0
+595,Cliente #595 (Barranco),cliente,Barranco,alta,-12.138179,-77.01906,1,3
+596,Intersec. Av. Larco (San Borja),interseccion,San Borja,alta,-12.118047,-76.993944,0,0
+597,Intersec. Av. Primavera (Puente Piedra),interseccion,Puente Piedra,baja,-11.871875,-77.060147,0,0
+598,Intersec. Av. El Derby (Lurin),interseccion,Lurin,baja,-12.270177,-76.891968,0,0
+599,Cliente #599 (Los Olivos),cliente,Los Olivos,baja,-11.994231,-77.077166,1,2
+600,Intersec. Av. Benavides (Carabayllo),interseccion,Carabayllo,baja,-11.859246,-77.019274,0,0
+601,Intersec. Av. Angamos (Barranco),interseccion,Barranco,alta,-12.136094,-77.005345,0,0
+602,Cliente #602 (Puente Piedra),cliente,Puente Piedra,baja,-11.867722,-77.098838,1,3
+603,Intersec. Av. La Encalada (Rimac),interseccion,Rimac,baja,-12.025714,-77.048767,0,0
+604,Cliente #604 (Ate),cliente,Ate,baja,-12.017352,-76.900283,5,2
+605,Intersec. Av. Angamos (Surco),interseccion,Surco,alta,-12.159514,-76.984557,0,0
+606,Cliente #606 (Santa Anita),cliente,Santa Anita,baja,-12.030956,-76.973886,5,3
+607,Intersec. Av. Larco (Los Olivos),interseccion,Los Olivos,baja,-11.975095,-77.06333,0,0
+608,Intersec. Av. Brasil (Rimac),interseccion,Rimac,baja,-12.027758,-77.015152,0,0
+609,Intersec. Av. Primavera (San Isidro),interseccion,San Isidro,muy_alta,-12.084668,-77.021951,0,0
+610,Intersec. Av. Universitaria (Ate),interseccion,Ate,baja,-12.029587,-76.89677,0,0
+611,Chifa Titi (Lince),restaurante,Lince,media,-12.07581,-77.044801,68,36
+612,Cliente #612 (Comas),cliente,Comas,baja,-11.934457,-77.049308,1,1
+613,Intersec. Av. Javier Prado (Pueblo Libre),interseccion,Pueblo Libre,media,-12.072995,-77.076838,0,0
+614,Intersec. Av. Caminos del Inca (Comas),interseccion,Comas,baja,-11.950751,-77.069154,0,0
+615,Intersec. Av. El Derby (Surco),interseccion,Surco,alta,-12.159168,-76.986236,0,0
+616,Cliente #616 (Rimac),cliente,Rimac,baja,-12.02299,-77.03068,2,3
+617,Cliente #617 (San Martin Porres),cliente,San Martin Porres,baja,-12.040468,-77.070485,4,1
+618,Cliente #618 (Jesus Maria),cliente,Jesus Maria,media,-12.087593,-77.027299,5,2
+619,Intersec. Av. Primavera (Jesus Maria),interseccion,Jesus Maria,media,-12.079903,-77.027423,0,0
+620,Intersec. Av. Angamos (Jesus Maria),interseccion,Jesus Maria,media,-12.06963,-77.054811,0,0
+621,Intersec. Av. Aviacion (San Martin Porres),interseccion,San Martin Porres,baja,-12.018252,-77.062173,0,0
+622,Cliente #622 (Pachacamac),cliente,Pachacamac,baja,-12.234949,-76.883347,5,2
+623,Intersec. Av. Salaverry (Puente Piedra),interseccion,Puente Piedra,baja,-11.862614,-77.081252,0,0
+624,Isolina (Chorrillos),restaurante,Chorrillos,media,-12.17294,-77.027464,59,64
+625,Cliente #625 (Chorrillos),cliente,Chorrillos,media,-12.172449,-77.014779,5,1
+626,Cliente #626 (Pueblo Libre),cliente,Pueblo Libre,media,-12.055115,-77.043307,4,2
+627,Cliente #627 (Callao),cliente,Callao,baja,-12.03699,-77.118584,2,3
+628,Intersec. Av. Universitaria (Rimac),interseccion,Rimac,baja,-12.013401,-77.053658,0,0
+629,Intersec. Av. Petit Thouars (Brena),interseccion,Brena,media,-12.077041,-77.052146,0,0
+630,Cliente #630 (Lince),cliente,Lince,media,-12.100048,-77.018655,1,1
+631,Cliente #631 (Surco),cliente,Surco,alta,-12.146987,-77.000214,2,1
+632,Cliente #632 (Rimac),cliente,Rimac,baja,-12.042772,-77.034206,2,3
+633,Intersec. Av. Universitaria (Lince),interseccion,Lince,media,-12.073241,-77.028401,0,0
+634,Cliente #634 (Magdalena),cliente,Magdalena,media,-12.083116,-77.085529,3,2
+635,Intersec. Av. La Encalada (Callao),interseccion,Callao,baja,-12.05552,-77.128515,0,0
+636,Intersec. Via Expresa (Surco),interseccion,Surco,alta,-12.13838,-76.989777,0,0
+637,Cliente #637 (Miraflores),cliente,Miraflores,muy_alta,-12.12627,-77.038644,2,3
+638,Intersec. Av. Angamos (La Molina),interseccion,La Molina,media,-12.093679,-76.960211,0,0
+639,Cliente #639 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.174092,-76.985407,2,3
+640,Intersec. Av. Brasil (Jesus Maria),interseccion,Jesus Maria,media,-12.095159,-77.045839,0,0
+641,Cliente #641 (Villa Maria),cliente,Villa Maria,baja,-12.166606,-76.959546,4,3
+642,Intersec. Av. El Derby (San Borja),interseccion,San Borja,alta,-12.100002,-77.002671,0,0
+643,Hub Rappi Comas,hub_rappi,Comas,baja,-11.958978,-77.070962,441,497
+644,Intersec. Av. Angamos (Independencia),interseccion,Independencia,baja,-12.010729,-77.05062,0,0
+645,Cliente #645 (San Borja),cliente,San Borja,alta,-12.117461,-76.982633,5,2
+646,Cliente #646 (Independencia),cliente,Independencia,baja,-11.980727,-77.069961,5,3
+647,Intersec. Av. La Encalada (Rimac),interseccion,Rimac,baja,-12.017237,-77.012285,0,0
+648,Intersec. Av. Petit Thouars (Brena),interseccion,Brena,media,-12.059298,-77.044054,0,0
+649,Intersec. Via Expresa (Surco),interseccion,Surco,alta,-12.140694,-76.987185,0,0
+650,Intersec. Av. Larco (Ate),interseccion,Ate,baja,-12.026272,-76.893081,0,0
+651,Intersec. Av. Arequipa (Magdalena),interseccion,Magdalena,media,-12.076573,-77.053838,0,0
+652,Cliente #652 (Rimac),cliente,Rimac,baja,-12.024825,-77.021023,1,2
+653,Intersec. Av. Aviacion (San Isidro),interseccion,San Isidro,muy_alta,-12.105427,-77.016613,0,0
+654,Intersec. Av. Larco (Jesus Maria),interseccion,Jesus Maria,media,-12.089373,-77.064557,0,0
+655,Cliente #655 (San Miguel),cliente,San Miguel,media,-12.066688,-77.068353,1,1
+656,Hub Rappi Villa El Salvador,hub_rappi,Villa El Salvador,baja,-12.215258,-76.945838,139,286
+657,Intersec. Av. Tomas Marsano (Los Olivos),interseccion,Los Olivos,baja,-11.999206,-77.065289,0,0
+658,Intersec. Av. Larco (Santa Anita),interseccion,Santa Anita,baja,-12.060459,-76.963958,0,0
+659,Cliente #659 (San Borja),cliente,San Borja,alta,-12.107834,-77.005454,1,1
+660,Cliente #660 (Independencia),cliente,Independencia,baja,-12.002549,-77.059187,1,2
+661,Intersec. Av. Santa Cruz (Los Olivos),interseccion,Los Olivos,baja,-12.000651,-77.083725,0,0
+662,Cliente #662 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.176438,-76.976895,4,1
+663,Cliente #663 (El Agustino),cliente,El Agustino,baja,-12.041045,-77.003634,4,3
+664,Cliente #664 (Barranco),cliente,Barranco,alta,-12.132873,-77.02488,3,1
+665,Intersec. Av. Caminos del Inca (Comas),interseccion,Comas,baja,-11.942724,-77.068127,0,0
+666,Intersec. Av. Universitaria (Miraflores),interseccion,Miraflores,muy_alta,-12.131667,-77.011858,0,0
+667,Intersec. Av. Angamos (Rimac),interseccion,Rimac,baja,-12.033424,-77.050627,0,0
+668,Intersec. Av. 28 de Julio (Ate),interseccion,Ate,baja,-12.039474,-76.909722,0,0
+669,Intersec. Av. Universitaria (Barranco),interseccion,Barranco,alta,-12.166071,-77.017007,0,0
+670,Intersec. Av. Caminos del Inca (Magdalena),interseccion,Magdalena,media,-12.098268,-77.051903,0,0
+671,Cliente #671 (Surco),cliente,Surco,alta,-12.154769,-77.009712,4,2
+672,Intersec. Av. El Derby (Surco),interseccion,Surco,alta,-12.168324,-76.991908,0,0
+673,Intersec. Av. Universitaria (San Miguel),interseccion,San Miguel,media,-12.086753,-77.090709,0,0
+674,Intersec. Av. Petit Thouars (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.176988,-76.993535,0,0
+675,Cliente #675 (Pueblo Libre),cliente,Pueblo Libre,media,-12.06696,-77.082543,5,2
+676,Intersec. Av. Larco (Carabayllo),interseccion,Carabayllo,baja,-11.872055,-77.043392,0,0
+677,Hub Rappi Magdalena,hub_rappi,Magdalena,media,-12.09761,-77.047774,422,423
+678,Intersec. Av. Angamos (Villa Maria),interseccion,Villa Maria,baja,-12.167358,-76.934604,0,0
+679,Cliente #679 (Carabayllo),cliente,Carabayllo,baja,-11.867886,-77.020622,4,3
+680,Central (Los Olivos),restaurante,Los Olivos,baja,-11.983778,-77.072149,47,47
+681,Intersec. Av. Benavides (Barranco),interseccion,Barranco,alta,-12.159098,-77.006124,0,0
+682,Intersec. Av. Primavera (Carabayllo),interseccion,Carabayllo,baja,-11.876656,-77.023006,0,0
+683,Cliente #683 (Los Olivos),cliente,Los Olivos,baja,-11.998346,-77.0481,1,2
+684,Intersec. Av. Santa Cruz (El Agustino),interseccion,El Agustino,baja,-12.043592,-77.021565,0,0
+685,Cliente #685 (Barranco),cliente,Barranco,alta,-12.165615,-77.025998,1,2
+686,Intersec. Av. Angamos (Carabayllo),interseccion,Carabayllo,baja,-11.89154,-77.026459,0,0
+687,Intersec. Av. Aviacion (Puente Piedra),interseccion,Puente Piedra,baja,-11.885585,-77.058633,0,0
+688,Cliente #688 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.211192,-76.919195,1,2
+689,Cliente #689 (San Borja),cliente,San Borja,alta,-12.122229,-77.012633,4,3
+690,Intersec. Av. Caminos del Inca (Callao),interseccion,Callao,baja,-12.061839,-77.113494,0,0
+691,Maido (Puente Piedra),restaurante,Puente Piedra,baja,-11.868483,-77.082641,13,94
+692,Intersec. Av. Salaverry (Independencia),interseccion,Independencia,baja,-11.975674,-77.075785,0,0
+693,Intersec. Av. Javier Prado (El Agustino),interseccion,El Agustino,baja,-12.029059,-76.988424,0,0
+694,Cliente #694 (Lince),cliente,Lince,media,-12.076405,-77.057494,1,2
+695,Cliente #695 (Los Olivos),cliente,Los Olivos,baja,-11.999456,-77.082517,3,3
+696,Intersec. Av. Tomas Marsano (Carabayllo),interseccion,Carabayllo,baja,-11.88941,-77.050521,0,0
+697,Intersec. Av. Brasil (Surco),interseccion,Surco,alta,-12.157826,-76.986591,0,0
+698,Cliente #698 (Lima Cercado),cliente,Lima Cercado,media,-12.061867,-77.024471,2,3
+699,Intersec. Av. Petit Thouars (Rimac),interseccion,Rimac,baja,-12.043532,-77.017659,0,0
+700,Cliente #700 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.191638,-76.932609,5,2
+701,Cliente #701 (La Molina),cliente,La Molina,media,-12.089354,-76.953515,1,2
+702,Intersec. Av. Javier Prado (La Molina),interseccion,La Molina,media,-12.09434,-76.945152,0,0
+703,Cliente #703 (Pueblo Libre),cliente,Pueblo Libre,media,-12.083339,-77.059448,3,2
+704,Intersec. Via Expresa (San Miguel),interseccion,San Miguel,media,-12.063093,-77.066846,0,0
+705,Intersec. Av. Brasil (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.216752,-76.921606,0,0
+706,Cliente #706 (Brena),cliente,Brena,media,-12.067289,-77.042472,3,3
+707,Hub Rappi San Juan Lurig,hub_rappi,San Juan Lurig,baja,-12.167649,-76.980584,284,206
+708,Rafael (Carabayllo),restaurante,Carabayllo,baja,-11.87305,-77.033295,39,47
+709,Intersec. Av. Santa Cruz (Pachacamac),interseccion,Pachacamac,baja,-12.239506,-76.856075,0,0
+710,Cliente #710 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.2049,-76.940455,1,2
+711,Cliente #711 (Barranco),cliente,Barranco,alta,-12.132735,-77.027554,5,2
+712,Cliente #712 (Santa Anita),cliente,Santa Anita,baja,-12.056658,-76.983617,2,3
+713,Intersec. Av. Salaverry (Independencia),interseccion,Independencia,baja,-11.997607,-77.075179,0,0
+714,Cliente #714 (Magdalena),cliente,Magdalena,media,-12.086817,-77.048465,1,1
+715,Intersec. Av. Javier Prado (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.173299,-76.998506,0,0
+716,Intersec. Av. 28 de Julio (Surco),interseccion,Surco,alta,-12.136553,-77.021497,0,0
+717,Cliente #717 (San Borja),cliente,San Borja,alta,-12.129372,-76.998508,5,3
+718,Cliente #718 (Los Olivos),cliente,Los Olivos,baja,-12.003924,-77.053438,1,3
+719,Intersec. Av. Petit Thouars (Callao),interseccion,Callao,baja,-12.052971,-77.099276,0,0
+720,Cliente #720 (Jesus Maria),cliente,Jesus Maria,media,-12.074885,-77.028016,2,2
+721,Cliente #721 (La Molina),cliente,La Molina,media,-12.094499,-76.961716,1,1
+722,Cliente #722 (Rimac),cliente,Rimac,baja,-12.028819,-77.034518,2,3
+723,Cliente #723 (Rimac),cliente,Rimac,baja,-12.012718,-77.023381,4,1
+724,Cliente #724 (San Martin Porres),cliente,San Martin Porres,baja,-12.007977,-77.052152,3,1
+725,Intersec. Av. Universitaria (Pachacamac),interseccion,Pachacamac,baja,-12.23569,-76.882169,0,0
+726,Hub Rappi Puente Piedra,hub_rappi,Puente Piedra,baja,-11.865987,-77.068966,200,493
+727,Astrid Gaston (Lurin),restaurante,Lurin,baja,-12.283544,-76.886325,43,58
+728,Cliente #728 (Miraflores),cliente,Miraflores,muy_alta,-12.121989,-77.046662,4,3
+729,Cliente #729 (Miraflores),cliente,Miraflores,muy_alta,-12.134808,-77.041086,2,1
+730,Cliente #730 (Lima Cercado),cliente,Lima Cercado,media,-12.065739,-77.051932,4,3
+731,Intersec. Av. Arequipa (Rimac),interseccion,Rimac,baja,-12.037526,-77.034952,0,0
+732,Intersec. Av. 28 de Julio (Puente Piedra),interseccion,Puente Piedra,baja,-11.858697,-77.089637,0,0
+733,Cliente #733 (Carabayllo),cliente,Carabayllo,baja,-11.896246,-77.041368,5,2
+734,Intersec. Av. Primavera (Carabayllo),interseccion,Carabayllo,baja,-11.877724,-77.008171,0,0
+735,Intersec. Av. La Marina (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.152437,-76.995028,0,0
+736,Cliente #736 (Pachacamac),cliente,Pachacamac,baja,-12.219517,-76.886409,5,2
+737,Hub Rappi San Borja,hub_rappi,San Borja,alta,-12.116726,-76.97909,455,240
+738,Intersec. Av. Caminos del Inca (San Martin Porres),interseccion,San Martin Porres,baja,-12.034103,-77.053795,0,0
+739,Costanera 700 (Lince),restaurante,Lince,media,-12.101364,-77.048879,33,53
+740,El Mercado (San Borja),restaurante,San Borja,alta,-12.105793,-76.997409,41,26
+741,Intersec. Av. Petit Thouars (Miraflores),interseccion,Miraflores,muy_alta,-12.128921,-77.022655,0,0
+742,Cliente #742 (Rimac),cliente,Rimac,baja,-12.011695,-77.01627,2,2
+743,Hub Rappi Comas,hub_rappi,Comas,baja,-11.961644,-77.067157,264,375
+744,Intersec. Av. Santa Cruz (Lince),interseccion,Lince,media,-12.076693,-77.054252,0,0
+745,Cliente #745 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.225201,-76.935832,1,2
+746,Intersec. Via Expresa (Los Olivos),interseccion,Los Olivos,baja,-12.009408,-77.052769,0,0
+747,Intersec. Av. Santa Cruz (Pachacamac),interseccion,Pachacamac,baja,-12.246058,-76.871698,0,0
+748,Intersec. Av. Larco (San Borja),interseccion,San Borja,alta,-12.118096,-77.022202,0,0
+749,Cliente #749 (San Miguel),cliente,San Miguel,media,-12.078124,-77.098705,5,3
+750,Intersec. Av. Primavera (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.150758,-76.992571,0,0
+751,Intersec. Av. Salaverry (Pueblo Libre),interseccion,Pueblo Libre,media,-12.072111,-77.051318,0,0
+752,Intersec. Av. Caminos del Inca (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.14639,-76.99229,0,0
+753,Intersec. Av. Colonial (Barranco),interseccion,Barranco,alta,-12.160932,-77.029264,0,0
+754,Intersec. Av. Arequipa (Miraflores),interseccion,Miraflores,muy_alta,-12.120033,-77.04664,0,0
+755,Intersec. Av. Arequipa (El Agustino),interseccion,El Agustino,baja,-12.023473,-77.02601,0,0
+756,Intersec. Av. Santa Cruz (El Agustino),interseccion,El Agustino,baja,-12.056461,-77.02412,0,0
+757,Intersec. Av. Universitaria (Surco),interseccion,Surco,alta,-12.155534,-76.992877,0,0
+758,Intersec. Av. La Marina (San Miguel),interseccion,San Miguel,media,-12.060907,-77.086976,0,0
+759,Intersec. Av. Arequipa (Magdalena),interseccion,Magdalena,media,-12.089098,-77.048404,0,0
+760,Intersec. Av. Universitaria (Pachacamac),interseccion,Pachacamac,baja,-12.242894,-76.868248,0,0
+761,Cliente #761 (Comas),cliente,Comas,baja,-11.958276,-77.048542,4,3
+762,Cliente #762 (Carabayllo),cliente,Carabayllo,baja,-11.899748,-77.019908,2,2
+763,Intersec. Av. 28 de Julio (Lince),interseccion,Lince,media,-12.089434,-77.02865,0,0
+764,Intersec. Av. Arequipa (La Molina),interseccion,La Molina,media,-12.08229,-76.954339,0,0
+765,Bembos (Pueblo Libre),restaurante,Pueblo Libre,media,-12.053786,-77.068756,77,46
+766,Intersec. Av. Colonial (Independencia),interseccion,Independencia,baja,-11.98362,-77.048176,0,0
+767,Hub Rappi Los Olivos,hub_rappi,Los Olivos,baja,-11.974992,-77.062152,292,256
+768,KFC (Comas),restaurante,Comas,baja,-11.922873,-77.04585,65,67
+769,Cliente #769 (San Borja),cliente,San Borja,alta,-12.125457,-77.002358,5,1
+770,Hub Rappi Barranco,hub_rappi,Barranco,alta,-12.141812,-77.029786,476,402
+771,Hub Rappi Callao,hub_rappi,Callao,baja,-12.057571,-77.127945,444,434
+772,Cliente #772 (Carabayllo),cliente,Carabayllo,baja,-11.882799,-77.00927,4,1
+773,Intersec. Av. Salaverry (Lima Cercado),interseccion,Lima Cercado,media,-12.043729,-77.009246,0,0
+774,Intersec. Av. La Encalada (San Martin Porres),interseccion,San Martin Porres,baja,-12.019327,-77.057263,0,0
+775,Cliente #775 (Lima Cercado),cliente,Lima Cercado,media,-12.062892,-77.039617,4,3
+776,Cliente #776 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.205201,-76.961604,1,2
+777,Intersec. Av. La Encalada (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.165472,-76.961519,0,0
+778,Cliente #778 (Villa Maria),cliente,Villa Maria,baja,-12.183957,-76.919755,4,3
+779,Cliente #779 (Jesus Maria),cliente,Jesus Maria,media,-12.085925,-77.047361,5,2
+780,Cliente #780 (Lurin),cliente,Lurin,baja,-12.28262,-76.874036,1,3
+781,McDonald's (San Isidro),restaurante,San Isidro,muy_alta,-12.103571,-77.035632,35,89
+782,Intersec. Av. Angamos (Pueblo Libre),interseccion,Pueblo Libre,media,-12.091038,-77.045595,0,0
+783,Intersec. Av. Larco (Puente Piedra),interseccion,Puente Piedra,baja,-11.886435,-77.088437,0,0
+784,Intersec. Av. Brasil (Surco),interseccion,Surco,alta,-12.16083,-77.000986,0,0
+785,Intersec. Av. Tomas Marsano (Jesus Maria),interseccion,Jesus Maria,media,-12.09088,-77.022155,0,0
+786,Intersec. Via Expresa (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.147865,-76.986935,0,0
+787,Cliente #787 (Lima Cercado),cliente,Lima Cercado,media,-12.025786,-77.010353,2,2
+788,Intersec. Av. Aviacion (Pueblo Libre),interseccion,Pueblo Libre,media,-12.087298,-77.070475,0,0
+789,Intersec. Av. La Encalada (Jesus Maria),interseccion,Jesus Maria,media,-12.070648,-77.055064,0,0
+790,Intersec. Av. Aviacion (Magdalena),interseccion,Magdalena,media,-12.083588,-77.082643,0,0
+791,Pizza Hut (Pachacamac),restaurante,Pachacamac,baja,-12.231919,-76.86925,38,26
+792,Intersec. Av. Javier Prado (Villa Maria),interseccion,Villa Maria,baja,-12.180936,-76.92031,0,0
+793,Cliente #793 (Carabayllo),cliente,Carabayllo,baja,-11.877089,-77.042639,3,1
+794,Cliente #794 (Carabayllo),cliente,Carabayllo,baja,-11.882045,-77.043419,5,2
+795,Cliente #795 (Brena),cliente,Brena,media,-12.078997,-77.043137,1,3
+796,Cliente #796 (Magdalena),cliente,Magdalena,media,-12.106356,-77.075199,5,1
+797,Intersec. Av. Aviacion (El Agustino),interseccion,El Agustino,baja,-12.054703,-76.988892,0,0
+798,Intersec. Av. Larco (Miraflores),interseccion,Miraflores,muy_alta,-12.099936,-77.036588,0,0
+799,Cliente #799 (Villa Maria),cliente,Villa Maria,baja,-12.160486,-76.946543,3,1
+800,Intersec. Av. Aviacion (Chorrillos),interseccion,Chorrillos,media,-12.18465,-77.018018,0,0
+801,Intersec. Av. La Encalada (Ate),interseccion,Ate,baja,-12.013448,-76.930482,0,0
+802,Intersec. Via Expresa (Puente Piedra),interseccion,Puente Piedra,baja,-11.849327,-77.091999,0,0
+803,Intersec. Av. Arequipa (Chorrillos),interseccion,Chorrillos,media,-12.151051,-77.035354,0,0
+804,Cliente #804 (Magdalena),cliente,Magdalena,media,-12.099826,-77.05262,1,3
+805,Cliente #805 (Barranco),cliente,Barranco,alta,-12.159921,-77.003006,4,2
+806,Cliente #806 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.17199,-76.999697,3,3
+807,Cliente #807 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.198204,-76.92799,5,2
+808,Intersec. Av. Aviacion (Magdalena),interseccion,Magdalena,media,-12.10707,-77.0592,0,0
+809,Intersec. Av. Tomas Marsano (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.214724,-76.936485,0,0
+810,Intersec. Av. Caminos del Inca (Carabayllo),interseccion,Carabayllo,baja,-11.898283,-77.012464,0,0
+811,Cliente #811 (Miraflores),cliente,Miraflores,muy_alta,-12.106131,-77.048512,2,2
+812,Intersec. Av. Caminos del Inca (Pachacamac),interseccion,Pachacamac,baja,-12.220483,-76.891036,0,0
+813,Intersec. Av. Arequipa (Lince),interseccion,Lince,media,-12.065639,-77.042703,0,0
+814,Cliente #814 (Jesus Maria),cliente,Jesus Maria,media,-12.088593,-77.031141,4,1
+815,Hub Rappi San Borja,hub_rappi,San Borja,alta,-12.104572,-77.001555,190,215
+816,Hub Rappi Jesus Maria,hub_rappi,Jesus Maria,media,-12.093006,-77.041968,129,206
+817,Intersec. Av. Petit Thouars (Santa Anita),interseccion,Santa Anita,baja,-12.033306,-76.981833,0,0
+818,Cliente #818 (Jesus Maria),cliente,Jesus Maria,media,-12.07142,-77.042827,4,3
+819,Hub Rappi Comas,hub_rappi,Comas,baja,-11.925565,-77.032974,388,383
+820,Intersec. Av. La Encalada (San Miguel),interseccion,San Miguel,media,-12.095322,-77.084388,0,0
+821,Intersec. Via Expresa (La Molina),interseccion,La Molina,media,-12.093726,-76.950506,0,0
+822,Cliente #822 (Comas),cliente,Comas,baja,-11.932533,-77.055255,1,2
+823,Intersec. Av. La Marina (Carabayllo),interseccion,Carabayllo,baja,-11.867476,-77.011053,0,0
+824,Intersec. Av. Aviacion (Lima Cercado),interseccion,Lima Cercado,media,-12.038837,-77.049356,0,0
+825,Intersec. Av. Salaverry (Comas),interseccion,Comas,baja,-11.924714,-77.029432,0,0
+826,Cliente #826 (Independencia),cliente,Independencia,baja,-12.009526,-77.058621,4,1
+827,Intersec. Av. Caminos del Inca (La Molina),interseccion,La Molina,media,-12.082082,-76.932413,0,0
+828,Cliente #828 (La Molina),cliente,La Molina,media,-12.064721,-76.952582,1,2
+829,Cliente #829 (Pueblo Libre),cliente,Pueblo Libre,media,-12.072854,-77.056961,2,2
+830,Intersec. Av. Colonial (San Martin Porres),interseccion,San Martin Porres,baja,-12.038726,-77.07967,0,0
+831,Cliente #831 (Barranco),cliente,Barranco,alta,-12.151321,-77.025579,3,3
+832,Intersec. Av. Santa Cruz (Magdalena),interseccion,Magdalena,media,-12.091699,-77.063987,0,0
+833,Cliente #833 (Carabayllo),cliente,Carabayllo,baja,-11.869933,-77.027699,4,1
+834,Intersec. Av. Primavera (Carabayllo),interseccion,Carabayllo,baja,-11.862399,-77.01269,0,0
+835,Cliente #835 (Pachacamac),cliente,Pachacamac,baja,-12.239831,-76.88489,4,3
+836,Intersec. Av. Larco (Pueblo Libre),interseccion,Pueblo Libre,media,-12.073656,-77.076501,0,0
+837,Cliente #837 (Comas),cliente,Comas,baja,-11.958961,-77.060803,3,2
+838,Cliente #838 (Lince),cliente,Lince,media,-12.095421,-77.026594,4,2
+839,Intersec. Av. Salaverry (San Isidro),interseccion,San Isidro,muy_alta,-12.09379,-77.037015,0,0
+840,Domino's (Comas),restaurante,Comas,baja,-11.960162,-77.071621,60,70
+841,Intersec. Av. Petit Thouars (Barranco),interseccion,Barranco,alta,-12.147742,-77.01769,0,0
+842,Intersec. Av. Javier Prado (La Molina),interseccion,La Molina,media,-12.090254,-76.95625,0,0
+843,Cliente #843 (San Isidro),cliente,San Isidro,muy_alta,-12.08157,-77.032944,3,2
+844,Hub Rappi San Borja,hub_rappi,San Borja,alta,-12.126442,-76.982754,205,230
+845,Cliente #845 (Rimac),cliente,Rimac,baja,-12.044442,-77.049552,2,1
+846,Intersec. Av. Universitaria (San Isidro),interseccion,San Isidro,muy_alta,-12.075634,-77.050058,0,0
+847,Intersec. Av. La Marina (La Molina),interseccion,La Molina,media,-12.101578,-76.962861,0,0
+848,Intersec. Av. Angamos (Brena),interseccion,Brena,media,-12.053608,-77.068963,0,0
+849,Cliente #849 (Santa Anita),cliente,Santa Anita,baja,-12.062358,-76.961358,3,2
+850,Cliente #850 (Independencia),cliente,Independencia,baja,-12.011209,-77.03916,2,1
+851,Intersec. Av. Salaverry (Barranco),interseccion,Barranco,alta,-12.150691,-77.016114,0,0
+852,Cliente #852 (El Agustino),cliente,El Agustino,baja,-12.058743,-77.020938,4,1
+853,Cliente #853 (Puente Piedra),cliente,Puente Piedra,baja,-11.860412,-77.070605,5,1
+854,Cliente #854 (Villa Maria),cliente,Villa Maria,baja,-12.184295,-76.957579,1,3
+855,Cliente #855 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.216436,-76.93929,3,2
+856,Intersec. Via Expresa (El Agustino),interseccion,El Agustino,baja,-12.020634,-77.012662,0,0
+857,Intersec. Av. Primavera (Brena),interseccion,Brena,media,-12.066963,-77.039842,0,0
+858,Intersec. Av. La Marina (Comas),interseccion,Comas,baja,-11.923585,-77.050581,0,0
+859,Intersec. Av. Larco (Pachacamac),interseccion,Pachacamac,baja,-12.233977,-76.886862,0,0
+860,Intersec. Av. Benavides (Ate),interseccion,Ate,baja,-12.02074,-76.902926,0,0
+861,Cliente #861 (Lurin),cliente,Lurin,baja,-12.283892,-76.856106,1,3
+862,Intersec. Av. Santa Cruz (Rimac),interseccion,Rimac,baja,-12.045238,-77.053065,0,0
+863,Cliente #863 (Carabayllo),cliente,Carabayllo,baja,-11.888636,-77.036756,5,1
+864,Intersec. Av. Petit Thouars (Comas),interseccion,Comas,baja,-11.94698,-77.040275,0,0
+865,Chili's (Comas),restaurante,Comas,baja,-11.922191,-77.035026,18,22
+866,Cliente #866 (Los Olivos),cliente,Los Olivos,baja,-12.004747,-77.074966,2,1
+867,Intersec. Av. Colonial (Pachacamac),interseccion,Pachacamac,baja,-12.252909,-76.850119,0,0
+868,Intersec. Av. Javier Prado (Callao),interseccion,Callao,baja,-12.064813,-77.111566,0,0
+869,Cliente #869 (Barranco),cliente,Barranco,alta,-12.138661,-77.02368,5,2
+870,Intersec. Av. Caminos del Inca (Carabayllo),interseccion,Carabayllo,baja,-11.873597,-77.035304,0,0
+871,Intersec. Av. Arequipa (Surco),interseccion,Surco,alta,-12.156011,-77.007836,0,0
+872,Cliente #872 (Independencia),cliente,Independencia,baja,-11.97168,-77.072966,4,2
+873,Intersec. Via Expresa (Jesus Maria),interseccion,Jesus Maria,media,-12.07615,-77.047969,0,0
+874,Cliente #874 (Barranco),cliente,Barranco,alta,-12.133827,-77.016784,4,3
+875,Cliente #875 (Barranco),cliente,Barranco,alta,-12.127394,-77.012835,2,2
+876,Intersec. Av. Arequipa (Carabayllo),interseccion,Carabayllo,baja,-11.864555,-77.011186,0,0
+877,Cliente #877 (Pachacamac),cliente,Pachacamac,baja,-12.22996,-76.859782,2,3
+878,TGI Fridays (Comas),restaurante,Comas,baja,-11.949382,-77.059041,34,57
+879,Intersec. Via Expresa (Lima Cercado),interseccion,Lima Cercado,media,-12.034027,-77.028622,0,0
+880,Popeyes (Villa El Salvador),restaurante,Villa El Salvador,baja,-12.196633,-76.920328,39,50
+881,Intersec. Av. Javier Prado (Surco),interseccion,Surco,alta,-12.131132,-77.002272,0,0
+882,Intersec. Av. Angamos (Barranco),interseccion,Barranco,alta,-12.140089,-77.035283,0,0
+883,Cliente #883 (Pueblo Libre),cliente,Pueblo Libre,media,-12.058458,-77.045024,4,1
+884,Cliente #884 (Carabayllo),cliente,Carabayllo,baja,-11.888386,-77.032465,1,2
+885,Intersec. Av. La Marina (Chorrillos),interseccion,Chorrillos,media,-12.175478,-77.007497,0,0
+886,Intersec. Av. Universitaria (Santa Anita),interseccion,Santa Anita,baja,-12.031772,-76.957017,0,0
+887,Cliente #887 (Lince),cliente,Lince,media,-12.082128,-77.021166,1,3
+888,Intersec. Av. Brasil (San Miguel),interseccion,San Miguel,media,-12.068889,-77.079792,0,0
+889,Intersec. Av. La Marina (Lima Cercado),interseccion,Lima Cercado,media,-12.044178,-77.027452,0,0
+890,Burger King (Jesus Maria),restaurante,Jesus Maria,media,-12.074339,-77.0431,34,62
+891,Hub Rappi Lima Cercado,hub_rappi,Lima Cercado,media,-12.037598,-77.016683,376,496
+892,Intersec. Av. La Marina (Los Olivos),interseccion,Los Olivos,baja,-11.971957,-77.08398,0,0
+893,Intersec. Av. Tomas Marsano (Ate),interseccion,Ate,baja,-12.021676,-76.892793,0,0
+894,Hub Rappi El Agustino,hub_rappi,El Agustino,baja,-12.041084,-77.018928,338,474
+895,Cliente #895 (Los Olivos),cliente,Los Olivos,baja,-11.978552,-77.063142,3,2
+896,Intersec. Av. La Encalada (Miraflores),interseccion,Miraflores,muy_alta,-12.100983,-77.044239,0,0
+897,Intersec. Av. Caminos del Inca (Barranco),interseccion,Barranco,alta,-12.128453,-77.041739,0,0
+898,Intersec. Av. Petit Thouars (Jesus Maria),interseccion,Jesus Maria,media,-12.083307,-77.035224,0,0
+899,Intersec. Av. Primavera (Carabayllo),interseccion,Carabayllo,baja,-11.858273,-77.047756,0,0
+900,Intersec. Av. Brasil (Comas),interseccion,Comas,baja,-11.950378,-77.048877,0,0
+901,Cliente #901 (San Isidro),cliente,San Isidro,muy_alta,-12.076525,-77.023589,3,3
+902,Intersec. Av. Salaverry (Chorrillos),interseccion,Chorrillos,media,-12.18825,-77.003612,0,0
+903,Cliente #903 (Jesus Maria),cliente,Jesus Maria,media,-12.092085,-77.046552,3,2
+904,Cliente #904 (Ate),cliente,Ate,baja,-12.025793,-76.920441,5,2
+905,Cliente #905 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.154506,-76.989824,5,1
+906,Intersec. Av. Brasil (El Agustino),interseccion,El Agustino,baja,-12.044162,-76.99829,0,0
+907,Cliente #907 (San Isidro),cliente,San Isidro,muy_alta,-12.079143,-77.054796,2,3
+908,Cliente #908 (Barranco),cliente,Barranco,alta,-12.129546,-77.026762,4,1
+909,Intersec. Av. Benavides (Lima Cercado),interseccion,Lima Cercado,media,-12.059797,-77.050572,0,0
+910,Intersec. Av. El Derby (San Borja),interseccion,San Borja,alta,-12.104551,-77.00733,0,0
+911,Intersec. Av. La Encalada (Independencia),interseccion,Independencia,baja,-11.988609,-77.076217,0,0
+912,Intersec. Av. Caminos del Inca (Villa Maria),interseccion,Villa Maria,baja,-12.145622,-76.933471,0,0
+913,Cliente #913 (Lima Cercado),cliente,Lima Cercado,media,-12.025707,-77.017953,1,3
+914,Intersec. Av. Arequipa (Lima Cercado),interseccion,Lima Cercado,media,-12.061967,-77.04327,0,0
+915,Pardos Chicken (Comas),restaurante,Comas,baja,-11.935828,-77.063714,35,50
+916,Intersec. Av. Caminos del Inca (Comas),interseccion,Comas,baja,-11.93671,-77.070106,0,0
+917,La Lucha (Surco),restaurante,Surco,alta,-12.14764,-77.008493,21,30
+918,Cliente #918 (Villa Maria),cliente,Villa Maria,baja,-12.173915,-76.951598,5,2
+919,Intersec. Av. Angamos (Rimac),interseccion,Rimac,baja,-12.019508,-77.018437,0,0
+920,Intersec. Av. Salaverry (San Miguel),interseccion,San Miguel,media,-12.081622,-77.102356,0,0
+921,Cliente #921 (Pachacamac),cliente,Pachacamac,baja,-12.245888,-76.864827,3,2
+922,Intersec. Av. 28 de Julio (San Isidro),interseccion,San Isidro,muy_alta,-12.101981,-77.016634,0,0
+923,Hub Rappi San Martin Porres,hub_rappi,San Martin Porres,baja,-12.024358,-77.090544,392,229
+924,Hub Rappi Independencia,hub_rappi,Independencia,baja,-11.999977,-77.068543,182,493
+925,Intersec. Av. Salaverry (Pueblo Libre),interseccion,Pueblo Libre,media,-12.052984,-77.063416,0,0
+926,Cliente #926 (San Miguel),cliente,San Miguel,media,-12.066163,-77.070695,5,3
+927,Intersec. Av. La Encalada (San Isidro),interseccion,San Isidro,muy_alta,-12.100326,-77.024407,0,0
+928,Cliente #928 (Ate),cliente,Ate,baja,-12.046058,-76.930656,2,2
+929,Intersec. Av. Tomas Marsano (San Martin Porres),interseccion,San Martin Porres,baja,-12.011864,-77.075512,0,0
+930,Cliente #930 (San Borja),cliente,San Borja,alta,-12.11496,-77.021122,5,3
+931,Cliente #931 (Chorrillos),cliente,Chorrillos,media,-12.15977,-77.013359,4,1
+932,Cliente #932 (Lurin),cliente,Lurin,baja,-12.263141,-76.848004,1,3
+933,Cliente #933 (Pachacamac),cliente,Pachacamac,baja,-12.230686,-76.850286,5,3
+934,Intersec. Av. Angamos (Villa Maria),interseccion,Villa Maria,baja,-12.151472,-76.944627,0,0
+935,Cliente #935 (Chorrillos),cliente,Chorrillos,media,-12.163419,-77.021991,1,1
+936,Intersec. Av. 28 de Julio (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.214369,-76.92056,0,0
+937,Cliente #937 (Chorrillos),cliente,Chorrillos,media,-12.151318,-77.030492,4,1
+938,El Corral (Lince),restaurante,Lince,media,-12.102034,-77.045891,63,51
+939,Cliente #939 (Puente Piedra),cliente,Puente Piedra,baja,-11.851823,-77.059903,4,3
+940,Cliente #940 (Rimac),cliente,Rimac,baja,-12.008144,-77.011093,2,2
+941,Intersec. Av. Javier Prado (San Isidro),interseccion,San Isidro,muy_alta,-12.093456,-77.053662,0,0
+942,Don Belisario (Brena),restaurante,Brena,media,-12.072139,-77.075397,51,93
+943,Intersec. Via Expresa (Surco),interseccion,Surco,alta,-12.160228,-76.986482,0,0
+944,Intersec. Av. La Encalada (Callao),interseccion,Callao,baja,-12.044873,-77.104762,0,0
+945,Intersec. Av. 28 de Julio (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.188607,-76.937582,0,0
+946,Intersec. Av. Arequipa (Los Olivos),interseccion,Los Olivos,baja,-11.972999,-77.051338,0,0
+947,Cliente #947 (San Borja),cliente,San Borja,alta,-12.115428,-77.012928,2,1
+948,Intersec. Av. 28 de Julio (Lince),interseccion,Lince,media,-12.096396,-77.040977,0,0
+949,Cliente #949 (Villa Maria),cliente,Villa Maria,baja,-12.164395,-76.940504,3,2
+950,Cliente #950 (Lince),cliente,Lince,media,-12.068362,-77.049979,2,1
+951,Cliente #951 (San Miguel),cliente,San Miguel,media,-12.071381,-77.108342,2,1
+952,Intersec. Via Expresa (Comas),interseccion,Comas,baja,-11.920039,-77.057484,0,0
+953,Intersec. Av. Tomas Marsano (Magdalena),interseccion,Magdalena,media,-12.080287,-77.085088,0,0
+954,Intersec. Av. Aviacion (Lurin),interseccion,Lurin,baja,-12.272453,-76.866082,0,0
+955,Intersec. Av. Brasil (Surco),interseccion,Surco,alta,-12.148309,-76.986256,0,0
+956,Cliente #956 (Chorrillos),cliente,Chorrillos,media,-12.185521,-77.030599,5,2
+957,Intersec. Av. La Encalada (Pachacamac),interseccion,Pachacamac,baja,-12.240286,-76.888076,0,0
+958,Intersec. Av. Petit Thouars (Rimac),interseccion,Rimac,baja,-12.039525,-77.025401,0,0
+959,Intersec. Av. Universitaria (San Miguel),interseccion,San Miguel,media,-12.063446,-77.09139,0,0
+960,Cliente #960 (Jesus Maria),cliente,Jesus Maria,media,-12.086149,-77.052938,4,1
+961,Intersec. Av. Benavides (San Martin Porres),interseccion,San Martin Porres,baja,-12.002851,-77.055629,0,0
+962,Intersec. Av. La Encalada (Chorrillos),interseccion,Chorrillos,media,-12.183365,-77.001112,0,0
+963,Intersec. Via Expresa (Lurin),interseccion,Lurin,baja,-12.261832,-76.884945,0,0
+964,Hub Rappi Magdalena,hub_rappi,Magdalena,media,-12.09943,-77.056915,206,215
+965,Cliente #965 (Villa Maria),cliente,Villa Maria,baja,-12.14175,-76.944055,4,3
+966,Intersec. Av. Larco (Lima Cercado),interseccion,Lima Cercado,media,-12.051826,-77.034543,0,0
+967,Cliente #967 (San Martin Porres),cliente,San Martin Porres,baja,-12.018467,-77.056551,1,3
+968,Intersec. Av. Santa Cruz (Callao),interseccion,Callao,baja,-12.055057,-77.110883,0,0
+969,Intersec. Av. El Derby (Rimac),interseccion,Rimac,baja,-12.028475,-77.043295,0,0
+970,Intersec. Av. Larco (Ate),interseccion,Ate,baja,-12.044826,-76.894236,0,0
+971,Intersec. Av. Salaverry (Magdalena),interseccion,Magdalena,media,-12.087686,-77.074741,0,0
+972,Norkys (Brena),restaurante,Brena,media,-12.068497,-77.063868,39,42
+973,Intersec. Av. Brasil (Callao),interseccion,Callao,baja,-12.064527,-77.113344,0,0
+974,Intersec. Av. La Marina (Independencia),interseccion,Independencia,baja,-11.969711,-77.045198,0,0
+975,Intersec. Av. Caminos del Inca (Callao),interseccion,Callao,baja,-12.034356,-77.134989,0,0
+976,Intersec. Av. Caminos del Inca (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.1495,-76.961262,0,0
+977,Hub Rappi San Isidro,hub_rappi,San Isidro,muy_alta,-12.099738,-77.03627,272,345
+978,Intersec. Av. Benavides (San Miguel),interseccion,San Miguel,media,-12.088728,-77.066141,0,0
+979,Intersec. Av. Aviacion (Callao),interseccion,Callao,baja,-12.034629,-77.115841,0,0
+980,Rockys (El Agustino),restaurante,El Agustino,baja,-12.02589,-77.021101,52,48
+981,Mediterraneo (Villa Maria),restaurante,Villa Maria,baja,-12.159511,-76.920114,25,27
+982,Cliente #982 (Lince),cliente,Lince,media,-12.084131,-77.022891,4,2
+983,Intersec. Av. Arequipa (Surco),interseccion,Surco,alta,-12.162916,-77.011608,0,0
+984,Cliente #984 (Ate),cliente,Ate,baja,-12.049321,-76.923649,1,3
+985,Intersec. Av. El Derby (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.151064,-76.96483,0,0
+986,Cliente #986 (San Martin Porres),cliente,San Martin Porres,baja,-12.035932,-77.054168,2,2
+987,Cliente #987 (Jesus Maria),cliente,Jesus Maria,media,-12.078272,-77.045046,3,1
+988,Cliente #988 (Callao),cliente,Callao,baja,-12.035232,-77.122826,5,2
+989,Intersec. Av. Salaverry (Los Olivos),interseccion,Los Olivos,baja,-11.985771,-77.072012,0,0
+990,Hub Rappi Villa Maria,hub_rappi,Villa Maria,baja,-12.169507,-76.936501,211,383
+991,Intersec. Av. Tomas Marsano (Lima Cercado),interseccion,Lima Cercado,media,-12.063269,-77.041066,0,0
+992,Intersec. Via Expresa (El Agustino),interseccion,El Agustino,baja,-12.018526,-77.000265,0,0
+993,Cliente #993 (San Borja),cliente,San Borja,alta,-12.103044,-77.002252,5,2
+994,Intersec. Av. Tomas Marsano (Magdalena),interseccion,Magdalena,media,-12.069194,-77.087371,0,0
+995,Intersec. Av. Aviacion (San Miguel),interseccion,San Miguel,media,-12.093221,-77.068006,0,0
+996,Intersec. Av. Angamos (Miraflores),interseccion,Miraflores,muy_alta,-12.13787,-77.027898,0,0
+997,Cliente #997 (Independencia),cliente,Independencia,baja,-11.98425,-77.038137,3,1
+998,Intersec. Av. Colonial (Surco),interseccion,Surco,alta,-12.157069,-77.012827,0,0
+999,Intersec. Av. Benavides (Villa Maria),interseccion,Villa Maria,baja,-12.148978,-76.920244,0,0
+1000,Cliente #1000 (Pachacamac),cliente,Pachacamac,baja,-12.231567,-76.880637,3,3
+1001,Cliente #1001 (San Martin Porres),cliente,San Martin Porres,baja,-12.033514,-77.049069,4,2
+1002,Intersec. Av. Angamos (Chorrillos),interseccion,Chorrillos,media,-12.153397,-77.009069,0,0
+1003,Intersec. Av. La Marina (Carabayllo),interseccion,Carabayllo,baja,-11.876416,-77.017104,0,0
+1004,Intersec. Av. 28 de Julio (San Miguel),interseccion,San Miguel,media,-12.070091,-77.105984,0,0
+1005,Cliente #1005 (Callao),cliente,Callao,baja,-12.049379,-77.129196,4,2
+1006,Intersec. Av. Brasil (San Miguel),interseccion,San Miguel,media,-12.069936,-77.080408,0,0
+1007,Intersec. Av. Larco (Lurin),interseccion,Lurin,baja,-12.260671,-76.854347,0,0
+1008,Intersec. Av. Arequipa (Miraflores),interseccion,Miraflores,muy_alta,-12.100625,-77.009638,0,0
+1009,Intersec. Av. Primavera (Comas),interseccion,Comas,baja,-11.953618,-77.053545,0,0
+1010,Intersec. Av. El Derby (San Martin Porres),interseccion,San Martin Porres,baja,-12.040512,-77.05447,0,0
+1011,Cliente #1011 (Pueblo Libre),cliente,Pueblo Libre,media,-12.056318,-77.059425,5,3
+1012,Cliente #1012 (Jesus Maria),cliente,Jesus Maria,media,-12.055274,-77.060373,4,1
+1013,Hub Rappi Lurin,hub_rappi,Lurin,baja,-12.257391,-76.873337,133,301
+1014,Cliente #1014 (Comas),cliente,Comas,baja,-11.930548,-77.056929,5,3
+1015,Intersec. Via Expresa (Los Olivos),interseccion,Los Olivos,baja,-11.97006,-77.065008,0,0
+1016,Intersec. Av. Brasil (Ate),interseccion,Ate,baja,-12.030728,-76.905361,0,0
+1017,Cliente #1017 (Independencia),cliente,Independencia,baja,-11.994518,-77.039041,4,3
+1018,Cliente #1018 (Puente Piedra),cliente,Puente Piedra,baja,-11.878527,-77.09098,4,2
+1019,Tanta (San Miguel),restaurante,San Miguel,media,-12.060784,-77.083565,54,53
+1020,Cliente #1020 (San Isidro),cliente,San Isidro,muy_alta,-12.094941,-77.05832,1,3
+1021,Intersec. Av. Santa Cruz (Los Olivos),interseccion,Los Olivos,baja,-11.985172,-77.068805,0,0
+1022,Intersec. Av. Javier Prado (Comas),interseccion,Comas,baja,-11.951931,-77.030748,0,0
+1023,Intersec. Av. Colonial (San Miguel),interseccion,San Miguel,media,-12.083281,-77.088975,0,0
+1024,Cliente #1024 (Miraflores),cliente,Miraflores,muy_alta,-12.111703,-77.04882,1,1
+1025,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,baja,-12.050138,-76.968146,0,0
+1026,Cliente #1026 (Ate),cliente,Ate,baja,-12.020961,-76.930303,4,1
+1027,Intersec. Av. Javier Prado (San Isidro),interseccion,San Isidro,muy_alta,-12.103074,-77.016043,0,0
+1028,Intersec. Av. Benavides (Lima Cercado),interseccion,Lima Cercado,media,-12.043465,-77.010232,0,0
+1029,Intersec. Av. Salaverry (Santa Anita),interseccion,Santa Anita,baja,-12.027425,-76.96865,0,0
+1030,Intersec. Av. Santa Cruz (Miraflores),interseccion,Miraflores,muy_alta,-12.098591,-77.01427,0,0
+1031,Cliente #1031 (Lima Cercado),cliente,Lima Cercado,media,-12.057983,-77.03147,3,3
+1032,Cliente #1032 (San Borja),cliente,San Borja,alta,-12.107234,-77.011793,5,3
+1033,Cliente #1033 (Santa Anita),cliente,Santa Anita,baja,-12.066631,-76.973729,5,2
+1034,Intersec. Av. Primavera (Callao),interseccion,Callao,baja,-12.035478,-77.112181,0,0
+1035,Intersec. Av. Colonial (Chorrillos),interseccion,Chorrillos,media,-12.151201,-77.003429,0,0
+1036,Intersec. Av. Caminos del Inca (Ate),interseccion,Ate,baja,-12.024368,-76.898927,0,0
+1037,Cliente #1037 (La Molina),cliente,La Molina,media,-12.075692,-76.931067,5,3
+1038,Cliente #1038 (Jesus Maria),cliente,Jesus Maria,media,-12.069663,-77.033091,3,3
+1039,Intersec. Av. Angamos (Lince),interseccion,Lince,media,-12.083874,-77.053799,0,0
+1040,Hub Rappi Magdalena,hub_rappi,Magdalena,media,-12.077602,-77.068035,464,227
+1041,Cliente #1041 (Chorrillos),cliente,Chorrillos,media,-12.160224,-77.035251,2,1
+1042,Intersec. Av. Santa Cruz (San Borja),interseccion,San Borja,alta,-12.101766,-77.01666,0,0
+1043,Intersec. Via Expresa (El Agustino),interseccion,El Agustino,baja,-12.01957,-77.014967,0,0
+1044,Intersec. Av. El Derby (Ate),interseccion,Ate,baja,-12.022852,-76.890615,0,0
+1045,Intersec. Av. Aviacion (Independencia),interseccion,Independencia,baja,-12.011897,-77.068047,0,0
+1046,Cliente #1046 (El Agustino),cliente,El Agustino,baja,-12.019423,-77.031993,2,1
+1047,Cliente #1047 (San Isidro),cliente,San Isidro,muy_alta,-12.114196,-77.04011,5,3
+1048,Intersec. Av. Caminos del Inca (Surco),interseccion,Surco,alta,-12.156917,-76.985335,0,0
+1049,La Mar (Villa El Salvador),restaurante,Villa El Salvador,baja,-12.218281,-76.934526,15,69
+1050,Cliente #1050 (San Isidro),cliente,San Isidro,muy_alta,-12.098386,-77.058411,4,2
+1051,Intersec. Av. Javier Prado (San Martin Porres),interseccion,San Martin Porres,baja,-12.035772,-77.048892,0,0
+1052,Cliente #1052 (Jesus Maria),cliente,Jesus Maria,media,-12.077382,-77.021357,4,3
+1053,Cliente #1053 (Callao),cliente,Callao,baja,-12.077685,-77.117004,2,2
+1054,Intersec. Av. Universitaria (San Borja),interseccion,San Borja,alta,-12.127563,-76.979509,0,0
+1055,Osaka (Comas),restaurante,Comas,baja,-11.920608,-77.031695,50,62
+1056,Cliente #1056 (Ate),cliente,Ate,baja,-12.018134,-76.904825,3,3
+1057,Cliente #1057 (Rimac),cliente,Rimac,baja,-12.045814,-77.049314,3,3
+1058,Cliente #1058 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.159842,-76.976401,3,3
+1059,Intersec. Av. El Derby (San Isidro),interseccion,San Isidro,muy_alta,-12.118773,-77.04336,0,0
+1060,Segundo Muelle (Ate),restaurante,Ate,baja,-12.049486,-76.893247,17,98
+1061,Intersec. Av. Santa Cruz (San Miguel),interseccion,San Miguel,media,-12.071573,-77.104799,0,0
+1062,Intersec. Av. Arequipa (Pachacamac),interseccion,Pachacamac,baja,-12.245174,-76.886302,0,0
+1063,Intersec. Av. Petit Thouars (Chorrillos),interseccion,Chorrillos,media,-12.165963,-77.004922,0,0
+1064,Cliente #1064 (Magdalena),cliente,Magdalena,media,-12.087415,-77.075633,1,3
+1065,Hub Rappi El Agustino,hub_rappi,El Agustino,baja,-12.050002,-77.031875,289,411
+1066,Cliente #1066 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.208591,-76.958781,3,2
+1067,Intersec. Av. Brasil (Surco),interseccion,Surco,alta,-12.125099,-76.979537,0,0
+1068,Intersec. Av. Caminos del Inca (Carabayllo),interseccion,Carabayllo,baja,-11.878433,-77.030477,0,0
+1069,Cliente #1069 (Independencia),cliente,Independencia,baja,-11.9986,-77.064403,5,2
+1070,Cliente #1070 (Magdalena),cliente,Magdalena,media,-12.089889,-77.047925,2,1
+1071,Cliente #1071 (Comas),cliente,Comas,baja,-11.942649,-77.05825,4,1
+1072,Cliente #1072 (San Isidro),cliente,San Isidro,muy_alta,-12.084752,-77.02746,4,2
+1073,Intersec. Av. Primavera (Puente Piedra),interseccion,Puente Piedra,baja,-11.869204,-77.071284,0,0
+1074,Intersec. Av. Arequipa (Puente Piedra),interseccion,Puente Piedra,baja,-11.886569,-77.071024,0,0
+1075,Cliente #1075 (Villa Maria),cliente,Villa Maria,baja,-12.165554,-76.962679,5,1
+1076,Cliente #1076 (Brena),cliente,Brena,media,-12.043909,-77.071363,2,2
+1077,Cliente #1077 (San Martin Porres),cliente,San Martin Porres,baja,-12.029002,-77.056128,5,2
+1078,Intersec. Av. 28 de Julio (Villa Maria),interseccion,Villa Maria,baja,-12.168276,-76.936505,0,0
+1079,Intersec. Av. Brasil (Pachacamac),interseccion,Pachacamac,baja,-12.240265,-76.863717,0,0
+1080,Intersec. Av. Javier Prado (Miraflores),interseccion,Miraflores,muy_alta,-12.099656,-77.042175,0,0
+1081,Cliente #1081 (Puente Piedra),cliente,Puente Piedra,baja,-11.867379,-77.058298,2,2
+1082,Cliente #1082 (Miraflores),cliente,Miraflores,muy_alta,-12.106945,-77.0208,2,1
+1083,Cliente #1083 (Chorrillos),cliente,Chorrillos,media,-12.175623,-77.040394,3,2
+1084,Cliente #1084 (Miraflores),cliente,Miraflores,muy_alta,-12.098564,-77.015762,1,2
+1085,Cliente #1085 (Barranco),cliente,Barranco,alta,-12.147985,-77.030013,2,1
+1086,Intersec. Av. Salaverry (Los Olivos),interseccion,Los Olivos,baja,-12.006976,-77.053419,0,0
+1087,Intersec. Av. Universitaria (El Agustino),interseccion,El Agustino,baja,-12.023365,-77.001121,0,0
+1088,Cliente #1088 (Rimac),cliente,Rimac,baja,-12.042376,-77.04893,2,1
+1089,Cliente #1089 (Jesus Maria),cliente,Jesus Maria,media,-12.070514,-77.037366,2,1
+1090,Cliente #1090 (Lima Cercado),cliente,Lima Cercado,media,-12.045828,-77.050977,4,2
+1091,Intersec. Av. Petit Thouars (Pueblo Libre),interseccion,Pueblo Libre,media,-12.096066,-77.065875,0,0
+1092,Intersec. Av. Universitaria (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.172072,-76.972371,0,0
+1093,Intersec. Av. Salaverry (Rimac),interseccion,Rimac,baja,-12.036944,-77.009923,0,0
+1094,Intersec. Av. El Derby (Pachacamac),interseccion,Pachacamac,baja,-12.233551,-76.852172,0,0
+1095,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,baja,-12.057411,-76.950368,0,0
+1096,Intersec. Av. Larco (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.163759,-76.958836,0,0
+1097,Intersec. Av. El Derby (Callao),interseccion,Callao,baja,-12.064996,-77.10438,0,0
+1098,Intersec. Av. El Derby (La Molina),interseccion,La Molina,media,-12.065284,-76.946406,0,0
+1099,Cliente #1099 (San Borja),cliente,San Borja,alta,-12.109306,-77.013662,4,2
+1100,Cliente #1100 (San Borja),cliente,San Borja,alta,-12.126503,-77.011277,2,1
+1101,Intersec. Av. Larco (Lurin),interseccion,Lurin,baja,-12.263686,-76.867729,0,0
+1102,Cliente #1102 (Barranco),cliente,Barranco,alta,-12.162436,-77.008439,4,2
+1103,Intersec. Av. Petit Thouars (Lima Cercado),interseccion,Lima Cercado,media,-12.049283,-77.032562,0,0
+1104,Cliente #1104 (Magdalena),cliente,Magdalena,media,-12.105241,-77.056186,3,2
+1105,Intersec. Av. Salaverry (Comas),interseccion,Comas,baja,-11.938569,-77.058221,0,0
+1106,Cliente #1106 (Miraflores),cliente,Miraflores,muy_alta,-12.109999,-77.012756,2,2
+1107,Intersec. Av. La Marina (Carabayllo),interseccion,Carabayllo,baja,-11.89947,-77.024944,0,0
+1108,Cliente #1108 (Magdalena),cliente,Magdalena,media,-12.075157,-77.060459,5,3
+1109,Cliente #1109 (Villa Maria),cliente,Villa Maria,baja,-12.174122,-76.921093,1,2
+1110,Intersec. Av. La Encalada (Ate),interseccion,Ate,baja,-12.026555,-76.900483,0,0
+1111,Cliente #1111 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.161345,-76.991302,4,3
+1112,Hub Rappi Brena,hub_rappi,Brena,media,-12.069367,-77.044016,454,436
+1113,Hub Rappi San Miguel,hub_rappi,San Miguel,media,-12.095241,-77.096154,451,226
+1114,Cliente #1114 (Comas),cliente,Comas,baja,-11.928249,-77.061178,4,3
+1115,Cliente #1115 (Lima Cercado),cliente,Lima Cercado,media,-12.049793,-77.040635,2,2
+1116,Hub Rappi Villa Maria,hub_rappi,Villa Maria,baja,-12.166857,-76.929087,282,220
+1117,Cliente #1117 (Lince),cliente,Lince,media,-12.079676,-77.029006,1,1
+1118,Intersec. Av. 28 de Julio (Villa Maria),interseccion,Villa Maria,baja,-12.145849,-76.957418,0,0
+1119,Cliente #1119 (Magdalena),cliente,Magdalena,media,-12.074301,-77.049985,1,3
+1120,Cliente #1120 (Lurin),cliente,Lurin,baja,-12.263057,-76.848629,1,2
+1121,Intersec. Av. Santa Cruz (Puente Piedra),interseccion,Puente Piedra,baja,-11.889099,-77.084328,0,0
+1122,Hub Rappi Pueblo Libre,hub_rappi,Pueblo Libre,media,-12.052828,-77.069721,459,298
+1123,Cliente #1123 (Ate),cliente,Ate,baja,-12.042807,-76.907731,5,1
+1124,Intersec. Av. La Encalada (Comas),interseccion,Comas,baja,-11.919307,-77.038039,0,0
+1125,Intersec. Av. Salaverry (Ate),interseccion,Ate,baja,-12.04649,-76.928232,0,0
+1126,Intersec. Av. Angamos (Lurin),interseccion,Lurin,baja,-12.286619,-76.867258,0,0
+1127,Cliente #1127 (Pachacamac),cliente,Pachacamac,baja,-12.234428,-76.871574,2,3
+1128,Sushi Ito (Lince),restaurante,Lince,media,-12.082617,-77.04502,50,89
+1129,Intersec. Av. Primavera (Carabayllo),interseccion,Carabayllo,baja,-11.869791,-77.036344,0,0
+1130,Intersec. Av. Colonial (Brena),interseccion,Brena,media,-12.066682,-77.047555,0,0
+1131,Intersec. Av. Petit Thouars (Callao),interseccion,Callao,baja,-12.05563,-77.123632,0,0
+1132,Cliente #1132 (San Borja),cliente,San Borja,alta,-12.121225,-76.993061,3,3
+1133,Intersec. Av. Javier Prado (Barranco),interseccion,Barranco,alta,-12.127785,-77.009369,0,0
+1134,China Wok (San Isidro),restaurante,San Isidro,muy_alta,-12.076478,-77.031435,67,76
+1135,Cliente #1135 (San Miguel),cliente,San Miguel,media,-12.078935,-77.107136,3,2
+1136,Intersec. Av. Salaverry (San Borja),interseccion,San Borja,alta,-12.091539,-76.996143,0,0
+1137,Cliente #1137 (Lince),cliente,Lince,media,-12.087437,-77.02678,5,1
+1138,Intersec. Av. Colonial (Pueblo Libre),interseccion,Pueblo Libre,media,-12.072333,-77.049295,0,0
+1139,Intersec. Av. Arequipa (Comas),interseccion,Comas,baja,-11.960735,-77.066025,0,0
+1140,Intersec. Av. Caminos del Inca (La Molina),interseccion,La Molina,media,-12.074876,-76.923407,0,0
+1141,Cliente #1141 (Callao),cliente,Callao,baja,-12.074275,-77.132433,2,1
+1142,Intersec. Av. Angamos (San Martin Porres),interseccion,San Martin Porres,baja,-12.028388,-77.074833,0,0
+1143,Cliente #1143 (Lima Cercado),cliente,Lima Cercado,media,-12.032745,-77.031386,1,2
+1144,Intersec. Av. Primavera (La Molina),interseccion,La Molina,media,-12.100103,-76.942464,0,0
+1145,Intersec. Av. Santa Cruz (Miraflores),interseccion,Miraflores,muy_alta,-12.119409,-77.046103,0,0
+1146,Intersec. Av. 28 de Julio (La Molina),interseccion,La Molina,media,-12.093141,-76.956766,0,0
+1147,Intersec. Av. Arequipa (Pueblo Libre),interseccion,Pueblo Libre,media,-12.085321,-77.051359,0,0
+1148,Cliente #1148 (El Agustino),cliente,El Agustino,baja,-12.043009,-77.014938,5,2
+1149,Intersec. Av. 28 de Julio (San Miguel),interseccion,San Miguel,media,-12.095506,-77.064965,0,0
+1150,Intersec. Av. Brasil (Pachacamac),interseccion,Pachacamac,baja,-12.212914,-76.877725,0,0
+1151,Cliente #1151 (Miraflores),cliente,Miraflores,muy_alta,-12.123096,-77.034493,3,2
+1152,Intersec. Av. Caminos del Inca (Magdalena),interseccion,Magdalena,media,-12.08529,-77.066051,0,0
+1153,Cliente #1153 (Independencia),cliente,Independencia,baja,-11.978729,-77.058658,5,3
+1154,Cliente #1154 (Barranco),cliente,Barranco,alta,-12.139438,-77.003554,1,3
+1155,Intersec. Av. Salaverry (San Miguel),interseccion,San Miguel,media,-12.088763,-77.099771,0,0
+1156,Cliente #1156 (Lince),cliente,Lince,media,-12.101397,-77.044799,4,3
+1157,Cliente #1157 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.2075,-76.940212,2,3
+1158,Intersec. Av. Colonial (Villa Maria),interseccion,Villa Maria,baja,-12.161989,-76.944473,0,0
+1159,Intersec. Av. Aviacion (Magdalena),interseccion,Magdalena,media,-12.089107,-77.068986,0,0
+1160,Intersec. Av. Caminos del Inca (Magdalena),interseccion,Magdalena,media,-12.105285,-77.065005,0,0
+1161,Intersec. Av. Tomas Marsano (Miraflores),interseccion,Miraflores,muy_alta,-12.120022,-77.044064,0,0
+1162,Intersec. Av. 28 de Julio (Magdalena),interseccion,Magdalena,media,-12.091093,-77.054456,0,0
+1163,Cliente #1163 (Jesus Maria),cliente,Jesus Maria,media,-12.067261,-77.021765,4,2
+1164,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,baja,-12.045783,-76.977868,0,0
+1165,Cliente #1165 (Puente Piedra),cliente,Puente Piedra,baja,-11.8516,-77.087849,5,3
+1166,Intersec. Av. El Derby (La Molina),interseccion,La Molina,media,-12.087632,-76.940595,0,0
+1167,Intersec. Via Expresa (Lurin),interseccion,Lurin,baja,-12.257495,-76.888041,0,0
+1168,Intersec. Av. Salaverry (Callao),interseccion,Callao,baja,-12.068052,-77.114765,0,0
+1169,Cliente #1169 (Jesus Maria),cliente,Jesus Maria,media,-12.068941,-77.029881,3,2
+1170,Intersec. Av. Javier Prado (Lurin),interseccion,Lurin,baja,-12.296964,-76.877919,0,0
+1171,Cliente #1171 (El Agustino),cliente,El Agustino,baja,-12.055437,-77.02797,4,1
+1172,Cliente #1172 (Magdalena),cliente,Magdalena,media,-12.101135,-77.055158,2,3
+1173,Cliente #1173 (Villa Maria),cliente,Villa Maria,baja,-12.142273,-76.956622,4,2
+1174,Cliente #1174 (Independencia),cliente,Independencia,baja,-11.973279,-77.059836,2,3
+1175,Intersec. Av. Benavides (Comas),interseccion,Comas,baja,-11.952416,-77.040687,0,0
+1176,Intersec. Av. La Marina (Pachacamac),interseccion,Pachacamac,baja,-12.214862,-76.87878,0,0
+1177,Cliente #1177 (El Agustino),cliente,El Agustino,baja,-12.042668,-76.990391,1,1
+1178,Intersec. Av. Larco (Villa Maria),interseccion,Villa Maria,baja,-12.18331,-76.947275,0,0
+1179,Cliente #1179 (Surco),cliente,Surco,alta,-12.133186,-77.011018,2,2
+1180,Intersec. Av. Caminos del Inca (Jesus Maria),interseccion,Jesus Maria,media,-12.093753,-77.043315,0,0
+1181,Intersec. Av. Brasil (Magdalena),interseccion,Magdalena,media,-12.091017,-77.06767,0,0
+1182,Intersec. Av. Benavides (Independencia),interseccion,Independencia,baja,-11.968584,-77.05587,0,0
+1183,Cliente #1183 (Surco),cliente,Surco,alta,-12.129878,-77.020584,5,2
+1184,Chifa Titi (Carabayllo),restaurante,Carabayllo,baja,-11.899721,-77.018054,59,91
+1185,Cliente #1185 (Miraflores),cliente,Miraflores,muy_alta,-12.137803,-77.007318,2,1
+1186,Intersec. Av. Aviacion (Comas),interseccion,Comas,baja,-11.925603,-77.028434,0,0
+1187,Cliente #1187 (Los Olivos),cliente,Los Olivos,baja,-11.971206,-77.066572,2,3
+1188,Intersec. Av. Angamos (Surco),interseccion,Surco,alta,-12.135495,-76.987586,0,0
+1189,Intersec. Av. 28 de Julio (San Isidro),interseccion,San Isidro,muy_alta,-12.109759,-77.034322,0,0
+1190,Intersec. Av. Caminos del Inca (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.156685,-76.958645,0,0
+1191,Intersec. Av. Petit Thouars (Lima Cercado),interseccion,Lima Cercado,media,-12.047784,-77.049352,0,0
+1192,Intersec. Av. Benavides (Jesus Maria),interseccion,Jesus Maria,media,-12.076367,-77.062477,0,0
+1193,Hub Rappi Carabayllo,hub_rappi,Carabayllo,baja,-11.887973,-77.020005,334,306
+1194,Cliente #1194 (Barranco),cliente,Barranco,alta,-12.148228,-77.004525,3,2
+1195,Intersec. Av. Petit Thouars (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.218836,-76.957381,0,0
+1196,Cliente #1196 (Lurin),cliente,Lurin,baja,-12.269856,-76.868896,1,1
+1197,Intersec. Av. El Derby (Los Olivos),interseccion,Los Olivos,baja,-11.994704,-77.08352,0,0
+1198,Hub Rappi Callao,hub_rappi,Callao,baja,-12.045293,-77.09721,147,321
+1199,Cliente #1199 (Independencia),cliente,Independencia,baja,-12.000049,-77.076287,1,3
+1200,Intersec. Via Expresa (Magdalena),interseccion,Magdalena,media,-12.074651,-77.086655,0,0
+1201,Intersec. Av. El Derby (Puente Piedra),interseccion,Puente Piedra,baja,-11.863436,-77.076765,0,0
+1202,Cliente #1202 (Chorrillos),cliente,Chorrillos,media,-12.148266,-77.02408,3,3
+1203,Cliente #1203 (Brena),cliente,Brena,media,-12.041592,-77.051036,2,2
+1204,Intersec. Av. Colonial (Ate),interseccion,Ate,baja,-12.033723,-76.896856,0,0
+1205,Intersec. Av. Colonial (Lima Cercado),interseccion,Lima Cercado,media,-12.044553,-77.051233,0,0
+1206,Intersec. Av. Tomas Marsano (Lince),interseccion,Lince,media,-12.099751,-77.025361,0,0
+1207,Isolina (Los Olivos),restaurante,Los Olivos,baja,-11.980284,-77.078812,11,28
+1208,Intersec. Av. Colonial (Brena),interseccion,Brena,media,-12.041166,-77.064175,0,0
+1209,Cliente #1209 (Jesus Maria),cliente,Jesus Maria,media,-12.068409,-77.039444,3,1
+1210,Cliente #1210 (San Isidro),cliente,San Isidro,muy_alta,-12.10855,-77.057772,3,3
+1211,Intersec. Av. Angamos (Ate),interseccion,Ate,baja,-12.038364,-76.907302,0,0
+1212,Intersec. Av. Colonial (Comas),interseccion,Comas,baja,-11.937767,-77.071734,0,0
+1213,Cliente #1213 (El Agustino),cliente,El Agustino,baja,-12.033519,-77.006398,2,2
+1214,Intersec. Av. 28 de Julio (San Miguel),interseccion,San Miguel,media,-12.063668,-77.068717,0,0
+1215,Cliente #1215 (Brena),cliente,Brena,media,-12.044165,-77.062381,3,1
+1216,Intersec. Av. La Marina (San Miguel),interseccion,San Miguel,media,-12.062366,-77.075112,0,0
+1217,Intersec. Av. Santa Cruz (San Juan Lurig),interseccion,San Juan Lurig,baja,-12.177429,-76.996023,0,0
+1218,Intersec. Av. Arequipa (San Borja),interseccion,San Borja,alta,-12.117347,-77.018077,0,0
+1219,Intersec. Av. La Marina (Brena),interseccion,Brena,media,-12.049379,-77.065825,0,0
+1220,Central (Los Olivos),restaurante,Los Olivos,baja,-11.975485,-77.070802,17,98
+1221,Cliente #1221 (Los Olivos),cliente,Los Olivos,baja,-11.968692,-77.056184,5,1
+1222,Intersec. Via Expresa (San Isidro),interseccion,San Isidro,muy_alta,-12.099216,-77.040956,0,0
+1223,Intersec. Av. Colonial (Pachacamac),interseccion,Pachacamac,baja,-12.225282,-76.884058,0,0
+1224,Cliente #1224 (San Isidro),cliente,San Isidro,muy_alta,-12.081221,-77.018967,3,2
+1225,Cliente #1225 (San Miguel),cliente,San Miguel,media,-12.096074,-77.079112,1,1
+1226,Cliente #1226 (Ate),cliente,Ate,baja,-12.02076,-76.918328,2,1
+1227,Intersec. Av. Javier Prado (San Martin Porres),interseccion,San Martin Porres,baja,-12.01887,-77.086293,0,0
+1228,Cliente #1228 (Los Olivos),cliente,Los Olivos,baja,-11.994332,-77.081156,2,1
+1229,Intersec. Av. Brasil (Miraflores),interseccion,Miraflores,muy_alta,-12.122524,-77.028125,0,0
+1230,Intersec. Av. Santa Cruz (Chorrillos),interseccion,Chorrillos,media,-12.191752,-77.008956,0,0
+1231,Cliente #1231 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.19664,-76.930473,4,2
+1232,Cliente #1232 (San Borja),cliente,San Borja,alta,-12.10171,-76.999844,2,3
+1233,Hub Rappi San Juan Lurig,hub_rappi,San Juan Lurig,baja,-12.151875,-76.989875,209,252
+1234,Intersec. Av. Universitaria (Jesus Maria),interseccion,Jesus Maria,media,-12.071141,-77.04544,0,0
+1235,Intersec. Av. Brasil (Rimac),interseccion,Rimac,baja,-12.031146,-77.03973,0,0
+1236,Maido (Jesus Maria),restaurante,Jesus Maria,media,-12.057293,-77.048835,19,63
+1237,Cliente #1237 (Pachacamac),cliente,Pachacamac,baja,-12.221812,-76.884388,1,3
+1238,Cliente #1238 (San Martin Porres),cliente,San Martin Porres,baja,-12.002889,-77.061948,1,3
+1239,Intersec. Av. Aviacion (Carabayllo),interseccion,Carabayllo,baja,-11.87014,-77.051259,0,0
+1240,Intersec. Av. La Marina (Carabayllo),interseccion,Carabayllo,baja,-11.888179,-77.009528,0,0
+1241,Intersec. Av. Aviacion (San Miguel),interseccion,San Miguel,media,-12.091065,-77.089427,0,0
+1242,Cliente #1242 (Callao),cliente,Callao,baja,-12.041607,-77.128804,3,1
+1243,Cliente #1243 (Pachacamac),cliente,Pachacamac,baja,-12.245709,-76.875739,2,3
+1244,Cliente #1244 (Brena),cliente,Brena,media,-12.05682,-77.059787,2,2
+1245,Cliente #1245 (Santa Anita),cliente,Santa Anita,baja,-12.063732,-76.976014,4,3
+1246,Intersec. Av. Larco (Rimac),interseccion,Rimac,baja,-12.029648,-77.04604,0,0
+1247,Intersec. Av. Aviacion (Jesus Maria),interseccion,Jesus Maria,media,-12.064255,-77.062703,0,0
+1248,Cliente #1248 (Puente Piedra),cliente,Puente Piedra,baja,-11.874251,-77.08084,5,2
+1249,Cliente #1249 (Brena),cliente,Brena,media,-12.051832,-77.041256,4,2
+1250,Intersec. Via Expresa (San Borja),interseccion,San Borja,alta,-12.110394,-77.007327,0,0
+1251,Intersec. Av. Brasil (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.226837,-76.921608,0,0
+1252,Hub Rappi Lima Cercado,hub_rappi,Lima Cercado,media,-12.047917,-77.026553,395,228
+1253,Intersec. Av. Benavides (Ate),interseccion,Ate,baja,-12.015612,-76.916763,0,0
+1254,Cliente #1254 (Ate),cliente,Ate,baja,-12.027068,-76.914203,1,2
+1255,Intersec. Av. Larco (Comas),interseccion,Comas,baja,-11.951974,-77.030245,0,0
+1256,Cliente #1256 (El Agustino),cliente,El Agustino,baja,-12.060777,-77.003523,1,1
+1257,Intersec. Av. El Derby (San Isidro),interseccion,San Isidro,muy_alta,-12.110346,-77.046894,0,0
+1258,Cliente #1258 (Pueblo Libre),cliente,Pueblo Libre,media,-12.096228,-77.041014,4,1
+1259,Intersec. Av. Primavera (Lurin),interseccion,Lurin,baja,-12.264641,-76.877213,0,0
+1260,Cliente #1260 (El Agustino),cliente,El Agustino,baja,-12.029965,-77.006139,2,1
+1261,Cliente #1261 (Rimac),cliente,Rimac,baja,-12.044768,-77.049129,5,3
+1262,Cliente #1262 (San Borja),cliente,San Borja,alta,-12.11659,-77.021864,5,3
+1263,Cliente #1263 (Callao),cliente,Callao,baja,-12.042943,-77.137515,3,2
+1264,Cliente #1264 (Rimac),cliente,Rimac,baja,-12.040666,-77.041145,3,2
+1265,Cliente #1265 (Magdalena),cliente,Magdalena,media,-12.080593,-77.06984,2,2
+1266,Cliente #1266 (El Agustino),cliente,El Agustino,baja,-12.037277,-77.031066,2,3
+1267,Intersec. Av. Colonial (San Borja),interseccion,San Borja,alta,-12.124633,-76.998865,0,0
+1268,Intersec. Av. Salaverry (San Borja),interseccion,San Borja,alta,-12.125406,-77.019176,0,0
+1269,Cliente #1269 (Callao),cliente,Callao,baja,-12.073961,-77.109349,4,1
+1270,Hub Rappi Lima Cercado,hub_rappi,Lima Cercado,media,-12.051434,-77.018099,335,405
+1271,Cliente #1271 (San Martin Porres),cliente,San Martin Porres,baja,-12.016674,-77.058375,3,1
+1272,Cliente #1272 (San Miguel),cliente,San Miguel,media,-12.070317,-77.066095,2,3
+1273,Cliente #1273 (San Borja),cliente,San Borja,alta,-12.096612,-76.99876,5,2
+1274,Intersec. Av. Universitaria (San Borja),interseccion,San Borja,alta,-12.114375,-76.99179,0,0
+1275,Cliente #1275 (Carabayllo),cliente,Carabayllo,baja,-11.901285,-77.01381,2,2
+1276,Cliente #1276 (La Molina),cliente,La Molina,media,-12.066217,-76.938966,4,2
+1277,Intersec. Av. Colonial (Lince),interseccion,Lince,media,-12.101659,-77.04723,0,0
+1278,Rafael (Pueblo Libre),restaurante,Pueblo Libre,media,-12.082965,-77.07866,70,60
+1279,Intersec. Av. Caminos del Inca (Comas),interseccion,Comas,baja,-11.944471,-77.057399,0,0
+1280,Intersec. Av. Caminos del Inca (Jesus Maria),interseccion,Jesus Maria,media,-12.078163,-77.037191,0,0
+1281,Intersec. Av. 28 de Julio (Villa El Salvador),interseccion,Villa El Salvador,baja,-12.204886,-76.935168,0,0
+1282,Cliente #1282 (Surco),cliente,Surco,alta,-12.129167,-76.995614,4,2
+1283,Cliente #1283 (Pachacamac),cliente,Pachacamac,baja,-12.22821,-76.872475,5,1
+1284,Cliente #1284 (San Isidro),cliente,San Isidro,muy_alta,-12.098947,-77.036624,4,3
+1285,Intersec. Av. Santa Cruz (San Isidro),interseccion,San Isidro,muy_alta,-12.0918,-77.016342,0,0
+1286,Cliente #1286 (San Martin Porres),cliente,San Martin Porres,baja,-12.007535,-77.049755,5,2
+1287,Cliente #1287 (Lince),cliente,Lince,media,-12.104174,-77.036364,5,2
+1288,Intersec. Av. Colonial (San Borja),interseccion,San Borja,alta,-12.117593,-77.006701,0,0
+1289,Intersec. Av. Primavera (Independencia),interseccion,Independencia,baja,-12.00962,-77.080908,0,0
+1290,Hub Rappi San Martin Porres,hub_rappi,San Martin Porres,baja,-12.037472,-77.059859,279,443
+1291,Intersec. Via Expresa (La Molina),interseccion,La Molina,media,-12.075842,-76.922845,0,0
+1292,Cliente #1292 (San Miguel),cliente,San Miguel,media,-12.07188,-77.077774,2,1
+1293,Intersec. Av. Caminos del Inca (Surco),interseccion,Surco,alta,-12.136073,-77.013539,0,0
+1294,Cliente #1294 (Barranco),cliente,Barranco,alta,-12.161902,-77.01659,5,1
+1295,Hub Rappi Callao,hub_rappi,Callao,baja,-12.070841,-77.096842,459,252
+1296,Cliente #1296 (Ate),cliente,Ate,baja,-12.033481,-76.917535,4,2
+1297,Cliente #1297 (Magdalena),cliente,Magdalena,media,-12.080865,-77.049927,5,3
+1298,Intersec. Av. Angamos (Comas),interseccion,Comas,baja,-11.954642,-77.042664,0,0
+1299,Cliente #1299 (Villa Maria),cliente,Villa Maria,baja,-12.176097,-76.935461,3,1
+1300,Cliente #1300 (Jesus Maria),cliente,Jesus Maria,media,-12.087801,-77.047532,5,3
+1301,Intersec. Av. 28 de Julio (Puente Piedra),interseccion,Puente Piedra,baja,-11.852811,-77.085592,0,0
+1302,Cliente #1302 (San Borja),cliente,San Borja,alta,-12.09249,-77.00882,3,1
+1303,Intersec. Av. Santa Cruz (Rimac),interseccion,Rimac,baja,-12.048748,-77.015623,0,0
+1304,Cliente #1304 (San Borja),cliente,San Borja,alta,-12.091796,-76.986777,1,1
+1305,Hub Rappi Villa El Salvador,hub_rappi,Villa El Salvador,baja,-12.207227,-76.922866,162,467
+1306,Intersec. Av. Caminos del Inca (Carabayllo),interseccion,Carabayllo,baja,-11.87671,-77.023788,0,0
+1307,Cliente #1307 (Lima Cercado),cliente,Lima Cercado,media,-12.050478,-77.051144,4,2
+1308,Intersec. Av. La Encalada (Chorrillos),interseccion,Chorrillos,media,-12.154162,-77.007041,0,0
+1309,Cliente #1309 (Independencia),cliente,Independencia,baja,-11.982896,-77.061994,4,1
+1310,Intersec. Av. Salaverry (Brena),interseccion,Brena,media,-12.044727,-77.045718,0,0
+1311,Hub Rappi Villa Maria,hub_rappi,Villa Maria,baja,-12.150851,-76.949529,476,274
+1312,Hub Rappi Independencia,hub_rappi,Independencia,baja,-11.977675,-77.061075,179,411
+1313,Intersec. Av. Universitaria (Jesus Maria),interseccion,Jesus Maria,media,-12.083344,-77.03561,0,0
+1314,Cliente #1314 (Magdalena),cliente,Magdalena,media,-12.097185,-77.075112,3,1
+1315,Cliente #1315 (Chorrillos),cliente,Chorrillos,media,-12.166076,-77.000962,2,3
+1316,Cliente #1316 (San Martin Porres),cliente,San Martin Porres,baja,-12.019718,-77.071853,4,3
+1317,Intersec. Av. Tomas Marsano (Callao),interseccion,Callao,baja,-12.049543,-77.119878,0,0
+1318,Intersec. Av. Aviacion (Surco),interseccion,Surco,alta,-12.141735,-76.988981,0,0
+1319,Cliente #1319 (Independencia),cliente,Independencia,baja,-11.993022,-77.038177,2,3
+1320,Intersec. Av. Colonial (Los Olivos),interseccion,Los Olivos,baja,-11.982552,-77.056268,0,0
+1321,Intersec. Av. Larco (Callao),interseccion,Callao,baja,-12.066983,-77.097567,0,0
+1322,Cliente #1322 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.154395,-76.98604,3,3
+1323,Cliente #1323 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.200737,-76.930177,1,2
+1324,Cliente #1324 (Rimac),cliente,Rimac,baja,-12.049322,-77.03725,3,1
+1325,Intersec. Av. Larco (Jesus Maria),interseccion,Jesus Maria,media,-12.08103,-77.058109,0,0
+1326,Intersec. Av. Tomas Marsano (Surco),interseccion,Surco,alta,-12.143537,-77.008221,0,0
+1327,Cliente #1327 (Brena),cliente,Brena,media,-12.076947,-77.061171,2,2
+1328,Astrid Gaston (Magdalena),restaurante,Magdalena,media,-12.099862,-77.063058,27,71
+1329,Intersec. Av. La Encalada (Barranco),interseccion,Barranco,alta,-12.126809,-77.033498,0,0
+1330,Intersec. Av. El Derby (Pachacamac),interseccion,Pachacamac,baja,-12.218281,-76.872401,0,0
+1331,Cliente #1331 (Santa Anita),cliente,Santa Anita,baja,-12.043795,-76.951257,1,1
+1332,Intersec. Av. 28 de Julio (Ate),interseccion,Ate,baja,-12.042884,-76.901481,0,0
+1333,Costanera 700 (Lima Cercado),restaurante,Lima Cercado,media,-12.030985,-77.037275,68,95
+1334,Intersec. Via Expresa (Lince),interseccion,Lince,media,-12.083689,-77.04698,0,0
+1335,Cliente #1335 (Comas),cliente,Comas,baja,-11.943403,-77.041557,2,3
+1336,Intersec. Av. Brasil (Barranco),interseccion,Barranco,alta,-12.132236,-77.003469,0,0
+1337,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,baja,-12.036121,-76.956964,0,0
+1338,Cliente #1338 (Ate),cliente,Ate,baja,-12.012941,-76.899165,2,3
+1339,Cliente #1339 (Magdalena),cliente,Magdalena,media,-12.073438,-77.07886,2,2
+1340,El Mercado (San Miguel),restaurante,San Miguel,media,-12.09113,-77.080167,45,24
+1341,Cliente #1341 (Magdalena),cliente,Magdalena,media,-12.093095,-77.048414,2,3
+1342,Intersec. Av. Arequipa (San Martin Porres),interseccion,San Martin Porres,baja,-12.02123,-77.063313,0,0
+1343,Bembos (San Miguel),restaurante,San Miguel,media,-12.063811,-77.082175,28,39
+1344,Intersec. Av. Salaverry (Ate),interseccion,Ate,baja,-12.049002,-76.930495,0,0
+1345,Intersec. Av. Aviacion (Miraflores),interseccion,Miraflores,muy_alta,-12.127234,-77.02684,0,0
+1346,Intersec. Av. Universitaria (Brena),interseccion,Brena,media,-12.049324,-77.032602,0,0
+1347,Cliente #1347 (Carabayllo),cliente,Carabayllo,baja,-11.876525,-77.043573,4,3
+1348,Intersec. Av. Larco (Surco),interseccion,Surco,alta,-12.151822,-77.00964,0,0
+1349,Cliente #1349 (Independencia),cliente,Independencia,baja,-12.006506,-77.056969,2,1
+1350,Intersec. Av. Larco (Barranco),interseccion,Barranco,alta,-12.157092,-77.026951,0,0
+1351,Intersec. Av. Angamos (Carabayllo),interseccion,Carabayllo,baja,-11.886901,-77.025525,0,0
+1352,Cliente #1352 (Comas),cliente,Comas,baja,-11.923042,-77.0701,3,3
+1353,Intersec. Av. Universitaria (Los Olivos),interseccion,Los Olivos,baja,-12.00402,-77.068755,0,0
+1354,Cliente #1354 (Magdalena),cliente,Magdalena,media,-12.077431,-77.086416,2,2
+1355,Intersec. Av. 28 de Julio (Chorrillos),interseccion,Chorrillos,media,-12.188602,-77.029358,0,0
+1356,KFC (Santa Anita),restaurante,Santa Anita,baja,-12.047062,-76.971626,74,67
+1357,McDonald's (San Miguel),restaurante,San Miguel,media,-12.090181,-77.094276,78,79
+1358,Cliente #1358 (Independencia),cliente,Independencia,baja,-11.968954,-77.07392,3,1
+1359,Intersec. Av. Caminos del Inca (La Molina),interseccion,La Molina,media,-12.102448,-76.949353,0,0
+1360,Cliente #1360 (Lima Cercado),cliente,Lima Cercado,media,-12.029969,-77.031476,1,1
+1361,Hub Rappi Los Olivos,hub_rappi,Los Olivos,baja,-11.984572,-77.06101,465,447
+1362,Intersec. Av. La Marina (San Isidro),interseccion,San Isidro,muy_alta,-12.11059,-77.056279,0,0
+1363,Intersec. Av. Santa Cruz (Chorrillos),interseccion,Chorrillos,media,-12.175721,-77.020255,0,0
+1364,Intersec. Av. Brasil (San Borja),interseccion,San Borja,alta,-12.123284,-76.978937,0,0
+1365,Intersec. Av. El Derby (San Borja),interseccion,San Borja,alta,-12.119516,-77.007335,0,0
+1366,Intersec. Av. Benavides (Lince),interseccion,Lince,media,-12.10196,-77.023553,0,0
+1367,Intersec. Av. Colonial (San Miguel),interseccion,San Miguel,media,-12.076261,-77.087385,0,0
+1368,Intersec. Av. La Marina (Comas),interseccion,Comas,baja,-11.961884,-77.03012,0,0
+1369,Intersec. Av. Aviacion (San Miguel),interseccion,San Miguel,media,-12.08116,-77.098613,0,0
+1370,Cliente #1370 (Rimac),cliente,Rimac,baja,-12.013202,-77.013065,5,1
+1371,Cliente #1371 (Lima Cercado),cliente,Lima Cercado,media,-12.038223,-77.039852,3,2
+1372,Cliente #1372 (Surco),cliente,Surco,alta,-12.13673,-77.003471,1,1
+1373,Intersec. Av. La Marina (Lince),interseccion,Lince,media,-12.082765,-77.037535,0,0
+1374,Cliente #1374 (Puente Piedra),cliente,Puente Piedra,baja,-11.882026,-77.062785,5,1
+1375,Intersec. Av. Larco (Independencia),interseccion,Independencia,baja,-11.984066,-77.045074,0,0
+1376,Intersec. Av. Aviacion (Comas),interseccion,Comas,baja,-11.927686,-77.03574,0,0
+1377,Hub Rappi Barranco,hub_rappi,Barranco,alta,-12.145503,-77.032278,402,415
+1378,Intersec. Av. Angamos (Miraflores),interseccion,Miraflores,muy_alta,-12.13785,-77.043213,0,0
+1379,Cliente #1379 (Lurin),cliente,Lurin,baja,-12.289894,-76.856097,3,1
+1380,Cliente #1380 (Lurin),cliente,Lurin,baja,-12.289502,-76.876151,4,1
+1381,Intersec. Av. Salaverry (Pueblo Libre),interseccion,Pueblo Libre,media,-12.073833,-77.066497,0,0
+1382,Cliente #1382 (Independencia),cliente,Independencia,baja,-12.001029,-77.066531,2,2
+1383,Intersec. Av. Santa Cruz (Los Olivos),interseccion,Los Olivos,baja,-11.970726,-77.081067,0,0
+1384,Intersec. Av. El Derby (La Molina),interseccion,La Molina,media,-12.067217,-76.937105,0,0
+1385,Intersec. Av. Tomas Marsano (Rimac),interseccion,Rimac,baja,-12.040256,-77.03012,0,0
+1386,Intersec. Av. 28 de Julio (Rimac),interseccion,Rimac,baja,-12.04283,-77.033455,0,0
+1387,Pizza Hut (Comas),restaurante,Comas,baja,-11.936186,-77.042668,52,66
+1388,Cliente #1388 (Independencia),cliente,Independencia,baja,-11.992158,-77.043903,4,1
+1389,Cliente #1389 (San Borja),cliente,San Borja,alta,-12.11931,-77.014138,2,3
+1390,Hub Rappi Comas,hub_rappi,Comas,baja,-11.925359,-77.053001,273,390
+1391,Cliente #1391 (Magdalena),cliente,Magdalena,media,-12.111195,-77.082255,2,2
+1392,Intersec. Av. Salaverry (Barranco),interseccion,Barranco,alta,-12.160644,-77.026034,0,0
+1393,Intersec. Av. Javier Prado (Pachacamac),interseccion,Pachacamac,baja,-12.224226,-76.888002,0,0
+1394,Intersec. Av. Petit Thouars (Callao),interseccion,Callao,baja,-12.077572,-77.113115,0,0
+1395,Domino's (La Molina),restaurante,La Molina,media,-12.072847,-76.945943,68,25
+1396,Cliente #1396 (Rimac),cliente,Rimac,baja,-12.024273,-77.022261,4,2
+1397,Cliente #1397 (San Martin Porres),cliente,San Martin Porres,baja,-12.026342,-77.073196,5,2
+1398,Cliente #1398 (Pachacamac),cliente,Pachacamac,baja,-12.217182,-76.869029,1,1
+1399,Intersec. Av. Universitaria (Barranco),interseccion,Barranco,alta,-12.138754,-77.003449,0,0
+1400,Intersec. Av. Brasil (San Martin Porres),interseccion,San Martin Porres,baja,-12.012188,-77.083422,0,0
+1401,Chili's (Barranco),restaurante,Barranco,alta,-12.134218,-77.009605,77,86
+1402,Intersec. Av. Larco (Villa Maria),interseccion,Villa Maria,baja,-12.172531,-76.919648,0,0
+1403,Hub Rappi Magdalena,hub_rappi,Magdalena,media,-12.110493,-77.04982,495,310
+1404,Cliente #1404 (Rimac),cliente,Rimac,baja,-12.038626,-77.039131,4,1
+1405,Intersec. Via Expresa (Callao),interseccion,Callao,baja,-12.044658,-77.115608,0,0
+1406,Cliente #1406 (San Martin Porres),cliente,San Martin Porres,baja,-12.035984,-77.073111,1,1
+1407,Hub Rappi Barranco,hub_rappi,Barranco,alta,-12.15299,-77.030668,309,463
+1408,Hub Rappi San Borja,hub_rappi,San Borja,alta,-12.095392,-76.991012,206,425
+1409,Cliente #1409 (San Martin Porres),cliente,San Martin Porres,baja,-12.003975,-77.078504,2,2
+1410,Intersec. Av. El Derby (Lurin),interseccion,Lurin,baja,-12.29899,-76.858616,0,0
+1411,Cliente #1411 (Rimac),cliente,Rimac,baja,-12.032702,-77.010617,4,1
+1412,Cliente #1412 (Brena),cliente,Brena,media,-12.050761,-77.07195,3,1
+1413,Cliente #1413 (San Isidro),cliente,San Isidro,muy_alta,-12.085206,-77.040521,3,2
+1414,Cliente #1414 (Los Olivos),cliente,Los Olivos,baja,-11.975443,-77.052548,2,2
+1415,Intersec. Av. Petit Thouars (Callao),interseccion,Callao,baja,-12.048339,-77.113295,0,0
+1416,Intersec. Av. 28 de Julio (Pachacamac),interseccion,Pachacamac,baja,-12.231372,-76.863774,0,0
+1417,Intersec. Av. Tomas Marsano (Pueblo Libre),interseccion,Pueblo Libre,media,-12.053902,-77.060111,0,0
+1418,Cliente #1418 (Carabayllo),cliente,Carabayllo,baja,-11.861831,-77.048668,1,2
+1419,Intersec. Av. Tomas Marsano (Brena),interseccion,Brena,media,-12.069849,-77.045714,0,0
+1420,Intersec. Av. Colonial (Ate),interseccion,Ate,baja,-12.037736,-76.914374,0,0
+1421,Intersec. Av. Angamos (San Miguel),interseccion,San Miguel,media,-12.083455,-77.06471,0,0
+1422,TGI Fridays (Los Olivos),restaurante,Los Olivos,baja,-11.970663,-77.078085,34,31
+1423,Intersec. Av. Salaverry (Pachacamac),interseccion,Pachacamac,baja,-12.21449,-76.87478,0,0
+1424,Cliente #1424 (Lima Cercado),cliente,Lima Cercado,media,-12.053477,-77.049759,1,3
+1425,Intersec. Av. Larco (Carabayllo),interseccion,Carabayllo,baja,-11.893652,-77.01104,0,0
+1426,Intersec. Av. Colonial (Rimac),interseccion,Rimac,baja,-12.011221,-77.017808,0,0
+1427,Intersec. Av. Arequipa (San Isidro),interseccion,San Isidro,muy_alta,-12.100964,-77.057734,0,0
+1428,Intersec. Av. Benavides (Jesus Maria),interseccion,Jesus Maria,media,-12.05845,-77.058124,0,0
+1429,Cliente #1429 (Chorrillos),cliente,Chorrillos,media,-12.169771,-77.042657,3,2
+1430,Intersec. Av. Javier Prado (Lince),interseccion,Lince,media,-12.096134,-77.017561,0,0
+1431,Intersec. Av. 28 de Julio (San Isidro),interseccion,San Isidro,muy_alta,-12.076919,-77.017137,0,0
+1432,Popeyes (Brena),restaurante,Brena,media,-12.068905,-77.05808,54,87
+1433,Intersec. Av. Colonial (San Borja),interseccion,San Borja,alta,-12.113933,-77.012547,0,0
+1434,Cliente #1434 (San Borja),cliente,San Borja,alta,-12.124932,-76.995735,1,3
+1435,Intersec. Av. Benavides (Rimac),interseccion,Rimac,baja,-12.036007,-77.020808,0,0
+1436,Intersec. Av. 28 de Julio (Villa Maria),interseccion,Villa Maria,baja,-12.153861,-76.947296,0,0
+1437,Cliente #1437 (Ate),cliente,Ate,baja,-12.042647,-76.892161,2,2
+1438,Cliente #1438 (Magdalena),cliente,Magdalena,media,-12.102675,-77.06237,1,2
+1439,Cliente #1439 (Lince),cliente,Lince,media,-12.102994,-77.03783,1,3
+1440,Cliente #1440 (La Molina),cliente,La Molina,media,-12.075597,-76.965014,4,3
+1441,Intersec. Via Expresa (Independencia),interseccion,Independencia,baja,-11.99682,-77.045681,0,0
+1442,Intersec. Av. La Encalada (Barranco),interseccion,Barranco,alta,-12.158867,-77.023414,0,0
+1443,Intersec. Av. Primavera (Lince),interseccion,Lince,media,-12.077128,-77.018926,0,0
+1444,Cliente #1444 (Independencia),cliente,Independencia,baja,-12.002316,-77.062786,2,2
+1445,Burger King (Lurin),restaurante,Lurin,baja,-12.259186,-76.860509,13,61
+1446,Cliente #1446 (Santa Anita),cliente,Santa Anita,baja,-12.039387,-76.966615,3,2
+1447,Intersec. Av. Universitaria (Los Olivos),interseccion,Los Olivos,baja,-11.996446,-77.049534,0,0
+1448,Intersec. Av. Javier Prado (San Isidro),interseccion,San Isidro,muy_alta,-12.092714,-77.050234,0,0
+1449,Intersec. Av. Caminos del Inca (Carabayllo),interseccion,Carabayllo,baja,-11.874575,-77.026067,0,0
+1450,Cliente #1450 (Lurin),cliente,Lurin,baja,-12.267008,-76.864163,2,2
+1451,Cliente #1451 (Comas),cliente,Comas,baja,-11.961804,-77.049026,1,1
+1452,Intersec. Av. La Marina (Carabayllo),interseccion,Carabayllo,baja,-11.870468,-77.031171,0,0
+1453,Intersec. Av. Brasil (Ate),interseccion,Ate,baja,-12.019327,-76.902368,0,0
+1454,Cliente #1454 (San Juan Lurig),cliente,San Juan Lurig,baja,-12.14101,-76.964881,5,3
+1455,Cliente #1455 (Barranco),cliente,Barranco,alta,-12.156476,-77.008965,1,3
+1456,Intersec. Av. Benavides (Surco),interseccion,Surco,alta,-12.144825,-76.989011,0,0
+1457,Intersec. Av. Angamos (Callao),interseccion,Callao,baja,-12.067064,-77.100265,0,0
+1458,Cliente #1458 (Villa El Salvador),cliente,Villa El Salvador,baja,-12.225796,-76.956723,5,2
+1459,Cliente #1459 (Villa Maria),cliente,Villa Maria,baja,-12.149099,-76.95465,5,3
+1460,Cliente #1460 (Chorrillos),cliente,Chorrillos,media,-12.160473,-77.005211,5,3
+1461,Cliente #1461 (Rimac),cliente,Rimac,baja,-12.033945,-77.044315,2,1
+1462,Intersec. Av. La Marina (San Borja),interseccion,San Borja,alta,-12.101703,-77.008769,0,0
+1463,Cliente #1463 (Villa Maria),cliente,Villa Maria,baja,-12.172319,-76.939577,2,1
+1464,Cliente #1464 (Magdalena),cliente,Magdalena,media,-12.10141,-77.067927,5,2
+1465,Intersec. Av. Petit Thouars (Los Olivos),interseccion,Los Olivos,baja,-11.990501,-77.061786,0,0
+1466,Intersec. Av. Primavera (Lince),interseccion,Lince,media,-12.079809,-77.044963,0,0
+1467,Intersec. Av. 28 de Julio (Carabayllo),interseccion,Carabayllo,baja,-11.864885,-77.027469,0,0
+1468,Cliente #1468 (San Martin Porres),cliente,San Martin Porres,baja,-12.020932,-77.080961,2,3
+1469,Intersec. Av. Caminos del Inca (Pachacamac),interseccion,Pachacamac,baja,-12.228619,-76.87876,0,0
+1470,Intersec. Av. Benavides (Pachacamac),interseccion,Pachacamac,baja,-12.220427,-76.856939,0,0
+1471,Cliente #1471 (San Isidro),cliente,San Isidro,muy_alta,-12.089568,-77.020143,1,1
+1472,Intersec. Av. Larco (Pachacamac),interseccion,Pachacamac,baja,-12.251662,-76.879039,0,0
+1473,Intersec. Av. Universitaria (Chorrillos),interseccion,Chorrillos,media,-12.18659,-77.012171,0,0
+1474,Intersec. Av. Petit Thouars (Independencia),interseccion,Independencia,baja,-11.971421,-77.046978,0,0
+1475,Intersec. Av. Caminos del Inca (Brena),interseccion,Brena,media,-12.040779,-77.039041,0,0
+1476,Hub Rappi San Miguel,hub_rappi,San Miguel,media,-12.058233,-77.089355,204,427
+1477,Intersec. Av. Larco (San Borja),interseccion,San Borja,alta,-12.106815,-77.007303,0,0
+1478,Intersec. Av. La Encalada (La Molina),interseccion,La Molina,media,-12.083433,-76.931499,0,0
+1479,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,baja,-12.057565,-76.943515,0,0
+1480,Intersec. Av. Tomas Marsano (Magdalena),interseccion,Magdalena,media,-12.081564,-77.065413,0,0
+1481,Intersec. Av. Aviacion (Lince),interseccion,Lince,media,-12.070589,-77.022914,0,0
+1482,Cliente #1482 (Santa Anita),cliente,Santa Anita,baja,-12.042647,-76.94169,2,3
+1483,Intersec. Av. El Derby (Villa Maria),interseccion,Villa Maria,baja,-12.145867,-76.950887,0,0
+1484,Hub Rappi San Miguel,hub_rappi,San Miguel,media,-12.081752,-77.106355,212,335
+1485,Intersec. Av. El Derby (Pachacamac),interseccion,Pachacamac,baja,-12.228713,-76.871174,0,0
+1486,Intersec. Av. Primavera (Carabayllo),interseccion,Carabayllo,baja,-11.885335,-77.010245,0,0
+1487,Intersec. Av. La Encalada (Ate),interseccion,Ate,baja,-12.04954,-76.891096,0,0
+1488,Intersec. Via Expresa (San Isidro),interseccion,San Isidro,muy_alta,-12.116615,-77.023938,0,0
+1489,Pardos Chicken (San Borja),restaurante,San Borja,alta,-12.122015,-77.01915,37,75
+1490,Intersec. Av. Salaverry (Magdalena),interseccion,Magdalena,media,-12.091513,-77.06027,0,0
+1491,Cliente #1491 (Ate),cliente,Ate,baja,-12.047572,-76.891994,5,2
+1492,Intersec. Av. Santa Cruz (San Miguel),interseccion,San Miguel,media,-12.079081,-77.096669,0,0
+1493,Hub Rappi Lima Cercado,hub_rappi,Lima Cercado,media,-12.061787,-77.032615,229,460
+1494,Cliente #1494 (El Agustino),cliente,El Agustino,baja,-12.028041,-77.015119,3,3
+1495,Hub Rappi Los Olivos,hub_rappi,Los Olivos,baja,-11.989879,-77.083565,438,452
+1496,Hub Rappi Lima Cercado,hub_rappi,Lima Cercado,media,-12.054799,-77.016618,428,481
+1497,Cliente #1497 (El Agustino),cliente,El Agustino,baja,-12.046361,-76.999415,4,2
+1498,Intersec. Av. Primavera (Comas),interseccion,Comas,baja,-11.918246,-77.069982,0,0
+1499,Cliente #1499 (Rimac),cliente,Rimac,baja,-12.041537,-77.037038,5,1

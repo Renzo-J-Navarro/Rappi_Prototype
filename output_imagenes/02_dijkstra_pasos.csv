@@ -1,0 +1,23 @@
+paso,nodo_id,rol,nombre,tipo,distrito,via_hacia_siguiente,tiempo_min,distancia_km,costo_sol
+1,66,ORIGEN (Restaurante),Pizza Hut (Rimac),restaurante,Rimac,—,2.95,1.0377,1.8
+2,850,Parada intermedia,Cliente #850 (Independencia),cliente,Independencia,—,2.22,0.7184,1.88
+3,56,Hub Rappi,Hub Rappi Rimac,hub_rappi,Rimac,—,2.48,0.7707,1.48
+4,1046,Parada intermedia,Cliente #1046 (El Agustino),cliente,El Agustino,—,3.35,0.7913,1.82
+5,755,Parada intermedia,Intersec. Av. Arequipa (El Agustino),interseccion,El Agustino,—,1.98,0.5977,2.03
+6,980,Parada intermedia,Rockys (El Agustino),restaurante,El Agustino,—,1.81,0.5223,1.16
+7,585,Parada intermedia,Intersec. Av. El Derby (Rimac),interseccion,Rimac,—,1.29,0.3074,1.52
+8,608,Parada intermedia,Intersec. Av. Brasil (Rimac),interseccion,Rimac,—,1.87,0.5661,1.56
+9,787,Parada intermedia,Cliente #787 (Lima Cercado),cliente,Lima Cercado,—,3.3,0.5309,1.64
+10,490,Parada intermedia,Cliente #490 (El Agustino),cliente,El Agustino,—,2.11,0.436,1.5
+11,1213,Parada intermedia,Cliente #1213 (El Agustino),cliente,El Agustino,—,3.24,0.8892,1.99
+12,663,Parada intermedia,Cliente #663 (El Agustino),cliente,El Agustino,—,2.02,0.6767,2.16
+13,906,Parada intermedia,Intersec. Av. Brasil (El Agustino),interseccion,El Agustino,—,2.67,0.8749,2.29
+14,1177,Parada intermedia,Cliente #1177 (El Agustino),cliente,El Agustino,—,3.47,1.1627,1.88
+15,217,Hub Rappi,Hub Rappi Santa Anita,hub_rappi,Santa Anita,—,3.27,1.0379,1.72
+16,1356,Parada intermedia,KFC (Santa Anita),restaurante,Santa Anita,—,3.01,0.5101,1.43
+17,1025,Parada intermedia,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,—,3.02,1.2347,1.95
+18,658,Parada intermedia,Intersec. Av. Larco (Santa Anita),interseccion,Santa Anita,—,2.75,1.1129,2.7
+19,362,Parada intermedia,Intersec. Av. Colonial (Santa Anita),interseccion,Santa Anita,—,3.05,0.7897,1.8
+20,272,Parada intermedia,Cliente #272 (Santa Anita),cliente,Santa Anita,—,1.88,0.3863,1.32
+21,1479,Parada intermedia,Intersec. Av. Caminos del Inca (Santa Anita),interseccion,Santa Anita,—,2.88,1.0705,1.96
+22,516,DESTINO (Cliente),Cliente #516 (La Molina),cliente,La Molina,—,—,—,—
