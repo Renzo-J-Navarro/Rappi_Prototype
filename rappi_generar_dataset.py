@@ -2,7 +2,6 @@
 ==============================================================
   GENERADOR DE DATASET — SISTEMA RAPPI LIMA
   Optimización de Rutas de Reparto de Comida
-  Complejidad Algorítmica 1ACC0184 - 2026-10
 
   Tipos de nodo:
     restaurante  → origen del pedido (Bembos, KFC, etc.)

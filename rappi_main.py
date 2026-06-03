@@ -1,13 +1,15 @@
 
-import os, sys, time
+from rappi_visualizacion_ruta import plot_recorrido_legible
+from rappi_visualizacion import (construir_grafo_nx, plot_red_rappi,
+                                 plot_zona_alta_demanda, plot_dashboard)
+from rappi_algoritmos import dijkstra, bfs, dfs, calcular_metricas_ruta
+from rappi_generar_dataset import generar_nodos, generar_aristas
+import os
+import sys
+import time
 import pandas as pd
 
 sys.path.insert(0, os.path.dirname(__file__))
-from rappi_generar_dataset import generar_nodos, generar_aristas
-from rappi_algoritmos      import dijkstra, bfs, dfs, calcular_metricas_ruta
-from rappi_visualizacion        import (construir_grafo_nx, plot_red_rappi,
-                                    plot_zona_alta_demanda, plot_dashboard)
-from rappi_visualizacion_ruta      import plot_recorrido_legible
 
 
 OUTPUT = "output_imagenes"
@@ -47,8 +49,9 @@ def elegir_restaurante_y_cliente(df_nodos, grafo):
     que tengan ruta válida entre sí.
     """
     import random
-    restaurantes = df_nodos[df_nodos["tipo"] == "restaurante"]["nodo_id"].tolist()
-    clientes     = df_nodos[df_nodos["tipo"] == "cliente"]["nodo_id"].tolist()
+    restaurantes = df_nodos[df_nodos["tipo"]
+                            == "restaurante"]["nodo_id"].tolist()
+    clientes = df_nodos[df_nodos["tipo"] == "cliente"]["nodo_id"].tolist()
 
     for _ in range(500):
         o = random.choice(restaurantes)
@@ -70,7 +73,8 @@ def ejecutar_algoritmos(grafo, origen, destino, df_nodos):
 
     # DIJKSTRA — ruta más rápida
     t0 = time.perf_counter()
-    costo_d, camino_d, visitados_d = dijkstra(grafo, origen, destino, "tiempo_min")
+    costo_d, camino_d, visitados_d = dijkstra(
+        grafo, origen, destino, "tiempo_min")
     ms_d = round((time.perf_counter()-t0)*1000, 2)
     resultados["Dijkstra"] = {
         "camino": camino_d, "visitados": visitados_d, "exec_ms": ms_d,
@@ -157,10 +161,10 @@ def main():
 
     # 6. Visualizaciones
     print("Generando visualizaciones...\n")
-    caminos  = {a: r["camino"] for a,r in resultados.items()}
-    metricas = {a: {k:v for k,v in r.items()
-                    if k not in ("camino","visitados","exec_ms")}
-                for a,r in resultados.items()}
+    caminos = {a: r["camino"] for a, r in resultados.items()}
+    metricas = {a: {k: v for k, v in r.items()
+                    if k not in ("camino", "visitados", "exec_ms")}
+                for a, r in resultados.items()}
 
     plot_red_rappi(G, output=f"{OUTPUT}/01_red_rappi_lima.png")
 
@@ -171,8 +175,8 @@ def main():
     # Zona de alta demanda = distrito del restaurante
     distrito_zona = info_o["distrito"]
     plot_zona_alta_demanda(G, df_nodos, distrito_zona,
-                            camino_dijkstra=resultados["Dijkstra"]["camino"],
-                            output=f"{OUTPUT}/03_zona_alta_demanda.png")
+                           camino_dijkstra=resultados["Dijkstra"]["camino"],
+                           output=f"{OUTPUT}/03_zona_alta_demanda.png")
 
     plot_dashboard(metricas, output=f"{OUTPUT}/04_dashboard_rappi.png")
 

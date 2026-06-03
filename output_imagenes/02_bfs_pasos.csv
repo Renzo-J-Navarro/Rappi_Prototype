@@ -1,36 +1,46 @@
 paso,nodo_id,rol,nombre,tipo,distrito,via_hacia_siguiente,tiempo_min,distancia_km,costo_sol
-1,1483,ORIGEN (Restaurante),Pardos Chicken (Ate),restaurante,Ate,—,2.76,0.7466,2.26
-2,1299,Parada intermedia,Intersec. Av. El Derby (Ate),interseccion,Ate,—,2.71,0.8943,1.44
-3,64,Parada intermedia,Intersec. Av. Petit Thouars (Ate),interseccion,Ate,—,2.83,0.7979,1.5
-4,424,Parada intermedia,Cliente #424 (Ate),cliente,Ate,—,3.55,0.8624,2.39
-5,488,Parada intermedia,Cliente #488 (Ate),cliente,Ate,—,2.93,0.9676,1.74
-6,1257,Parada intermedia,Cliente #1257 (Ate),cliente,Ate,—,2.27,0.4375,1.76
-7,1477,Parada intermedia,Intersec. Av. Primavera (Ate),interseccion,Ate,—,4.7,1.5685,2.32
-8,382,Parada intermedia,Intersec. Av. El Derby (Santa Anita),interseccion,Santa Anita,—,1.81,0.2914,1.7
-9,1063,Parada intermedia,Cliente #1063 (Santa Anita),cliente,Santa Anita,—,3.61,1.492,2.86
-10,307,Parada intermedia,Cliente #307 (Santa Anita),cliente,Santa Anita,—,2.87,0.5934,1.69
-11,749,Parada intermedia,Intersec. Av. Universitaria (Santa Anita),interseccion,Santa Anita,—,3.3,0.8139,2.09
-12,1435,Hub Rappi,Hub Rappi Santa Anita,hub_rappi,Santa Anita,—,2.68,0.9398,2.05
-13,414,Parada intermedia,Cliente #414 (Santa Anita),cliente,Santa Anita,—,1.28,0.2903,1.36
-14,1123,Parada intermedia,Cliente #1123 (Santa Anita),cliente,Santa Anita,—,3.85,1.3879,2.69
-15,1433,Hub Rappi,Hub Rappi El Agustino,hub_rappi,El Agustino,—,4.31,1.1637,1.8
-16,796,Parada intermedia,Intersec. Via Expresa (El Agustino),interseccion,El Agustino,—,3.54,1.0502,2.25
-17,303,Parada intermedia,Intersec. Av. La Marina (El Agustino),interseccion,El Agustino,—,2.13,0.5023,1.24
-18,1288,Parada intermedia,Rafael (El Agustino),restaurante,El Agustino,—,3.39,1.021,2.09
-19,440,Parada intermedia,Cliente #440 (Lima Cercado),cliente,Lima Cercado,—,2.83,0.6756,1.17
-20,508,Parada intermedia,Intersec. Av. Universitaria (El Agustino),interseccion,El Agustino,—,1.86,0.4424,1.29
-21,194,Parada intermedia,Intersec. Av. Salaverry (El Agustino),interseccion,El Agustino,—,2.59,0.5307,1.21
-22,748,Parada intermedia,Cliente #748 (El Agustino),cliente,El Agustino,—,1.93,0.5747,1.23
-23,398,Parada intermedia,Cliente #398 (Jesus Maria),cliente,Jesus Maria,—,3.36,0.7296,1.3
-24,94,Parada intermedia,Cliente #94 (Lima Cercado),cliente,Lima Cercado,—,2.27,0.422,1.53
-25,256,Parada intermedia,Cliente #256 (Jesus Maria),cliente,Jesus Maria,—,1.9,0.4415,1.49
-26,641,Parada intermedia,Intersec. Av. Santa Cruz (Jesus Maria),interseccion,Jesus Maria,—,3.05,0.5826,1.24
-27,1206,Parada intermedia,Intersec. Av. Salaverry (Brena),interseccion,Brena,—,3.04,0.5673,1.44
-28,29,Parada intermedia,Cliente #29 (Jesus Maria),cliente,Jesus Maria,—,2.98,0.6195,1.95
-29,536,Parada intermedia,Intersec. Av. Santa Cruz (San Isidro),interseccion,San Isidro,—,4.28,0.5657,1.48
-30,885,Parada intermedia,Cliente #885 (Lince),cliente,Lince,—,2.74,0.4187,0.89
-31,1278,Parada intermedia,Maido (Pueblo Libre),restaurante,Pueblo Libre,—,2.07,0.3219,1.08
-32,865,Parada intermedia,Cliente #865 (Jesus Maria),cliente,Jesus Maria,—,2.38,0.1705,1.27
-33,627,Parada intermedia,Cliente #627 (San Isidro),cliente,San Isidro,—,1.92,0.2806,0.75
-34,185,Parada intermedia,Intersec. Av. Santa Cruz (Lince),interseccion,Lince,—,2.35,0.4499,1.1
-35,374,DESTINO (Cliente),Cliente #374 (Pueblo Libre),cliente,Pueblo Libre,—,—,—,—
+1,439,ORIGEN (Restaurante),Don Belisario (San Juan Lurig),restaurante,San Juan Lurig,—,1.48,0.299,1.19
+2,1297,Parada intermedia,Cliente #1297 (San Juan Lurig),cliente,San Juan Lurig,—,2.8,0.5378,1.88
+3,932,Parada intermedia,Intersec. Av. Primavera (San Juan Lurig),interseccion,San Juan Lurig,—,3.85,0.8172,2.19
+4,451,Parada intermedia,Mediterraneo (San Juan Lurig),restaurante,San Juan Lurig,—,4.34,1.2049,2.03
+5,474,Parada intermedia,Intersec. Av. Petit Thouars (San Juan Lurig),interseccion,San Juan Lurig,—,4.06,0.9711,2.2
+6,743,Parada intermedia,Intersec. Via Expresa (San Juan Lurig),interseccion,San Juan Lurig,—,2.47,0.3695,1.79
+7,553,Parada intermedia,Cliente #553 (Surco),cliente,Surco,—,3.65,0.4879,0.89
+8,908,Parada intermedia,Cliente #908 (Surco),cliente,Surco,—,2.6,0.2631,0.68
+9,903,Parada intermedia,Intersec. Av. 28 de Julio (Surco),interseccion,Surco,—,3.89,0.5417,1.92
+10,153,Parada intermedia,Intersec. Av. El Derby (Surco),interseccion,Surco,—,3.7,0.5557,1.85
+11,369,Parada intermedia,Cliente #369 (San Borja),cliente,San Borja,—,4.01,0.5681,1.8
+12,144,Parada intermedia,Intersec. Av. Javier Prado (San Borja),interseccion,San Borja,—,3.55,0.8419,2.07
+13,1096,Parada intermedia,Cliente #1096 (San Borja),cliente,San Borja,—,4.94,0.9472,2.02
+14,1269,Parada intermedia,Cliente #1269 (San Borja),cliente,San Borja,—,6.56,1.1964,1.93
+15,1016,Parada intermedia,Cliente #1016 (San Borja),cliente,San Borja,—,5.92,1.0048,1.71
+16,1030,Parada intermedia,Cliente #1030 (San Borja),cliente,San Borja,—,3.75,0.9097,1.41
+17,476,Parada intermedia,Intersec. Av. Caminos del Inca (San Borja),interseccion,San Borja,—,4.0,0.6148,1.67
+18,549,Parada intermedia,Intersec. Av. Benavides (Lince),interseccion,Lince,—,2.58,0.6628,1.36
+19,98,Parada intermedia,Pizza Hut (San Isidro),restaurante,San Isidro,—,2.35,0.3026,1.86
+20,656,Parada intermedia,Intersec. Av. Arequipa (Lince),interseccion,Lince,—,3.61,0.7452,2.08
+21,1212,Parada intermedia,Intersec. Av. Benavides (San Isidro),interseccion,San Isidro,—,5.07,0.5939,1.23
+22,1122,Parada intermedia,Cliente #1122 (Jesus Maria),cliente,Jesus Maria,—,3.3,0.5037,1.96
+23,1489,Parada intermedia,Intersec. Av. Angamos (Jesus Maria),interseccion,Jesus Maria,—,2.49,0.248,1.37
+24,211,Parada intermedia,Cliente #211 (Lima Cercado),cliente,Lima Cercado,—,2.27,0.4571,1.6
+25,171,Parada intermedia,Cliente #171 (Lima Cercado),cliente,Lima Cercado,—,2.58,0.6406,1.86
+26,1447,Parada intermedia,Cliente #1447 (El Agustino),cliente,El Agustino,—,3.11,0.7948,1.37
+27,530,Parada intermedia,Cliente #530 (Rimac),cliente,Rimac,—,2.8,0.6482,1.9
+28,513,Parada intermedia,Cliente #513 (El Agustino),cliente,El Agustino,—,2.34,0.4837,1.77
+29,61,Parada intermedia,Cliente #61 (Rimac),cliente,Rimac,—,2.6,0.3471,1.72
+30,720,Parada intermedia,Intersec. Av. Petit Thouars (Lima Cercado),interseccion,Lima Cercado,—,2.61,0.6686,2.08
+31,744,Parada intermedia,Cliente #744 (Lima Cercado),cliente,Lima Cercado,—,3.1,0.6982,2.06
+32,381,Parada intermedia,Intersec. Av. Salaverry (Lima Cercado),interseccion,Lima Cercado,—,2.34,0.5921,1.12
+33,837,Parada intermedia,Intersec. Av. Arequipa (Lima Cercado),interseccion,Lima Cercado,—,3.11,0.57,1.49
+34,955,Parada intermedia,Cliente #955 (Lima Cercado),cliente,Lima Cercado,—,1.94,0.5443,1.01
+35,997,Parada intermedia,McDonald's (Rimac),restaurante,Rimac,—,3.44,0.671,1.21
+36,1320,Parada intermedia,Intersec. Av. La Marina (Rimac),interseccion,Rimac,—,3.07,0.6848,1.32
+37,819,Parada intermedia,Cliente #819 (Rimac),cliente,Rimac,—,3.82,1.0021,1.6
+38,1407,Parada intermedia,Cliente #1407 (San Martin Porres),cliente,San Martin Porres,—,3.19,0.7092,2.22
+39,400,Parada intermedia,Cliente #400 (Los Olivos),cliente,Los Olivos,—,2.12,0.6462,1.33
+40,537,Hub Rappi,Hub Rappi Independencia,hub_rappi,Independencia,—,2.2,0.6631,1.5
+41,1117,Parada intermedia,Intersec. Av. 28 de Julio (Los Olivos),interseccion,Los Olivos,—,3.11,0.7231,1.41
+42,301,Parada intermedia,Intersec. Av. Primavera (Los Olivos),interseccion,Los Olivos,—,2.64,0.78,1.95
+43,1260,Parada intermedia,Intersec. Av. La Marina (San Martin Porres),interseccion,San Martin Porres,—,2.68,0.4665,0.91
+44,1207,Parada intermedia,Intersec. Av. Angamos (Los Olivos),interseccion,Los Olivos,—,2.75,0.4514,1.01
+45,95,DESTINO (Cliente),Cliente #95 (Independencia),cliente,Independencia,—,—,—,—

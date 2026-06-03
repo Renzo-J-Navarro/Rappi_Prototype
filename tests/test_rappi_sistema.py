@@ -101,7 +101,7 @@ class TestDijkstra(unittest.TestCase):
 
     def tearDown(self):
         ms = (time.perf_counter() - self.t0) * 1000
-        print(f"    ⏱  {ms:.4f} ms")
+        print(f"    {ms:.4f} ms")
 
     # ── Correctitud básica ────────────────────────────────────
 
@@ -205,7 +205,7 @@ class TestBFS(unittest.TestCase):
 
     def tearDown(self):
         ms = (time.perf_counter() - self.t0) * 1000
-        print(f"    ⏱  {ms:.4f} ms")
+        print(f"    {ms:.4f} ms")
 
     def test_encuentra_ruta_existente(self):
         """BFS encuentra camino válido cuando existe ruta."""
@@ -273,7 +273,7 @@ class TestDFS(unittest.TestCase):
 
     def tearDown(self):
         ms = (time.perf_counter() - self.t0) * 1000
-        print(f"    ⏱  {ms:.4f} ms")
+        print(f"   {ms:.4f} ms")
 
     def test_encuentra_ruta_existente(self):
         """DFS encuentra alguna ruta cuando existe conectividad."""
@@ -345,7 +345,7 @@ class TestCalcularMetricasRuta(unittest.TestCase):
 
     def tearDown(self):
         ms = (time.perf_counter() - self.t0) * 1000
-        print(f"    ⏱  {ms:.4f} ms")
+        print(f"    {ms:.4f} ms")
 
     def test_metricas_ruta_completa(self):
         """Métricas acumuladas correctas para ruta 0→1→2→3."""
@@ -422,7 +422,7 @@ class TestIntegracion(unittest.TestCase):
 
     def tearDown(self):
         ms = (time.perf_counter() - self.t0) * 1000
-        print(f"    ⏱  {ms:.4f} ms")
+        print(f"    {ms:.4f} ms")
 
     def test_dijkstra_siempre_mejor_o_igual_que_bfs_en_tiempo(self):
         """Dijkstra nunca produce mayor tiempo que BFS (Dijkstra es óptimo en peso)."""
